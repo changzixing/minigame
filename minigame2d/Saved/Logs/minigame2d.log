@@ -6110,3 +6110,614 @@ External referencers of Texture2D /Game/Developers/fdy/Characters/NPC/zombie/Sou
 [2020.09.07-13.40.12:176][110]LogPlayLevel: Display: Destroying online subsystem :Context_94
 [2020.09.07-13.41.21:867][608]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
 [2020.09.07-13.41.22:115][608]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (中文 - QQ拼音输入法).
+[2020.09.07-13.45.19:780][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.09.07-13.45.19:805][339]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/level_00_Auto067BF3AC74068F15B6B4B229E94E80B1D.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Saved/Autosaves/Game/Developers/fdy/Maps/level_00_Auto0.umap'
+[2020.09.07-13.45.19:806][339]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/fdy/Maps/level_00' took 0.071
+[2020.09.07-13.45.19:806][339]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.071
+[2020.09.07-13.47.05:497][746]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-13.47.05:862][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Maps/level_00" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.07-13.47.05:900][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.09.07-13.47.05:920][781]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/level_002723BCAE4C358D85AE530E8C7A3E74A0.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_00.umap'
+[2020.09.07-13.47.05:942][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Maps/level_00_BuiltData" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_00_BuiltData.uasset" SILENT=true
+[2020.09.07-13.47.05:946][781]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/level_00_BuiltData7B1F3EAC4164121068BC7CA83CE90670.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_00_BuiltData.uasset'
+[2020.09.07-13.47.05:972][781]AssetCheck: New page: 资产保存：多个资产
+[2020.09.07-13.47.05:972][781]LogContentValidation: Display: 正在验证World /Game/Developers/fdy/Maps/level_00.level_00
+[2020.09.07-13.47.05:972][781]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/Developers/fdy/Maps/level_00_BuiltData.level_00_BuiltData
+[2020.09.07-13.47.07:606][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.09.07-13.47.09:717][963]LogSlate: Window '保存内容' being destroyed
+[2020.09.07-13.47.09:767][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/图像132AB0B623E4E3DDFF907E53DAA3D5A4697.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/NPC/zombie/Source/图像132.uasset'
+[2020.09.07-13.47.09:769][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Source/air_cube" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/air_cube.uasset" SILENT=true
+[2020.09.07-13.47.09:774][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/air_cubeF802AAF64F4197FEF59B5581A1824F1F.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/air_cube.uasset'
+[2020.09.07-13.47.09:775][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Source/air_flip" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/air_flip.uasset" SILENT=true
+[2020.09.07-13.47.09:776][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/air_flipC0477D294C08C5B3416604BF257D7229.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/air_flip.uasset'
+[2020.09.07-13.47.09:780][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_coBDE6A22344D2520F876B47B83BAC2C4F.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com.uasset'
+[2020.09.07-13.47.09:785][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_co94AF1C9C4041EF1138EF598294D46ABB.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com__1_.uasset'
+[2020.09.07-13.47.09:788][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_co9BB48F6E47C4C05BA78C8FAAF60DD07C.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com.uasset'
+[2020.09.07-13.47.09:792][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_coA61BE09F49340BA117C6EA8D90E4314F.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_0.uasset'
+[2020.09.07-13.47.09:813][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_co46A124CA476F90CC4361E38D8DD4A7C8.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_1.uasset'
+[2020.09.07-13.47.09:816][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_coECC1B43842296A427C55D980BE776889.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_10.uasset'
+[2020.09.07-13.47.09:819][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_coC029A4B844DBF6A453E7C38021B3B672.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_11.uasset'
+[2020.09.07-13.47.09:823][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_coE8C98FDB48CC94B08D09E7B77C101352.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_12.uasset'
+[2020.09.07-13.47.09:826][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_co4D24E0204446FCA4C7F5BD8E200CEBBF.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_13.uasset'
+[2020.09.07-13.47.09:829][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_co26F79DB14EC8FC6A3AD79C8D6E813DBA.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_14.uasset'
+[2020.09.07-13.47.09:832][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_coDD221C2A42AC9652742D128269CFD208.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_15.uasset'
+[2020.09.07-13.47.09:835][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_co3CF5556A49C945E6482B6191FCE44BC1.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_2.uasset'
+[2020.09.07-13.47.09:838][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_coBB621E1A4E647D3879CC6DAB94260901.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_3.uasset'
+[2020.09.07-13.47.09:841][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_co66DC2097416F01ACD6181B9E0148B5B3.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_4.uasset'
+[2020.09.07-13.47.09:844][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_coA828195149C729C9882EE08284FBC83E.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_5.uasset'
+[2020.09.07-13.47.09:848][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_co27B51B824DB471FFFA0B49B0AA98AC4F.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_6.uasset'
+[2020.09.07-13.47.09:851][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_coD62D4BAC4BA9DACC9A8D98B7D6B7A9E6.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_7.uasset'
+[2020.09.07-13.47.09:854][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_co106FEDE14E26D44CF1BC2598ADA06365.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_8.uasset'
+[2020.09.07-13.47.09:857][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_coEA42714741AC29CABC621080EAB8DFB2.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_9.uasset'
+[2020.09.07-13.47.09:861][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/2D_RPG丧尸素材-自制丧尸素材-男学生爆头__2__爱给网_E18307CA48BEE4BD083A9E8CA117132B.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-男学生爆头__2__爱给网_aigei_com.uasset'
+[2020.09.07-13.47.09:865][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/Q版学生4方向行走图-01B_01b__爱给网_aigei_co902A194646905835E152F6B539DB6371.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/Q版学生4方向行走图-01B_01b__爱给网_aigei_com.uasset'
+[2020.09.07-13.47.09:869][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/Q版学生4方向行走图-04B_04b__爱给网_aigei_co7FF9C4634F9FFB5F79069F9C7A001D7A.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/Q版学生4方向行走图-04B_04b__爱给网_aigei_com.uasset'
+[2020.09.07-13.47.09:872][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/Q版学生4方向行走图-09_爱给网_aigei_comC5668CDA4C58A57EC4801B80C7045DF7.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/人物/Q版学生4方向行走图-09_爱给网_aigei_com.uasset'
+[2020.09.07-13.47.09:875][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/复古风2D_MMORPG网络游戏源码-办公桌1_111_de_爱BD2377F94559373179BD6287E97A91FC.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/场景/复古风2D_MMORPG网络游戏源码-办公桌1_111_de_爱给网_aigei_com.uasset'
+[2020.09.07-13.47.09:886][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/日式风格恐怖类rpg游戏素材-异常感染-18_爱给网_aigei128A465F441B17F50B29EE870264EA12.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/场景/日式风格恐怖类rpg游戏素材-异常感染-18_爱给网_aigei_com.uasset'
+[2020.09.07-13.47.09:892][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/日式风格恐怖类rpg游戏素材-异常感染-45_爱给网_aigeiC0B3F2B346AA45CA1A318EBF5B22FF2B.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/场景/日式风格恐怖类rpg游戏素材-异常感染-45_爱给网_aigei_com.uasset'
+[2020.09.07-13.47.09:899][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/日式风格恐怖类rpg游戏素材-异常感染-47_爱给网_aigei892FF99145F235AE44FB30A43F67DC69.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/场景/日式风格恐怖类rpg游戏素材-异常感染-47_爱给网_aigei_com.uasset'
+[2020.09.07-13.47.09:905][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/日式风格恐怖类rpg游戏素材-异常感染-52_爱给网_aigeiA57900CF46EE3D37666DEE96D8988522.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/场景/日式风格恐怖类rpg游戏素材-异常感染-52_爱给网_aigei_com.uasset'
+[2020.09.07-13.47.09:912][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/日式风格恐怖类rpg游戏素材-异常感染-71_爱给网_aigeiBF20BBE549E4C1C15C9033A3F9EE36FF.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/场景/日式风格恐怖类rpg游戏素材-异常感染-71_爱给网_aigei_com.uasset'
+[2020.09.07-13.47.09:920][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/日式风格恐怖类rpg游戏素材-异常感染-73_爱给网_aigeiF14975A741964C39868041AF46ADB866.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/场景/日式风格恐怖类rpg游戏素材-异常感染-73_爱给网_aigei_com.uasset'
+[2020.09.07-13.47.09:927][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/日式风格恐怖类rpg游戏素材-异常感染-74_爱给网_aigei18DF89D04C1C463BC57E819CB08B8C4B.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/场景/日式风格恐怖类rpg游戏素材-异常感染-74_爱给网_aigei_com.uasset'
+[2020.09.07-13.47.09:991][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/精神病院恐怖生存解谜题材游戏素材-84号囚犯-s30b_烤__爱2003844A405EB549E159DE8CAF5B3802.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/场景/精神病院恐怖生存解谜题材游戏素材-84号囚犯-s30b_烤__爱给网_aigei_com.uasset'
+[2020.09.07-13.47.10:046][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/精神病院恐怖生存解谜题材游戏素材-84号囚犯-烤_baked_爱EAE801C64BD41DAE113DF29F430FCDBF.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/场景/精神病院恐怖生存解谜题材游戏素材-84号囚犯-烤_baked_爱给网_aigei_com.uasset'
+[2020.09.07-13.47.10:046][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Source/微信图片_20200907150314" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/微信图片_20200907150314.uasset" SILENT=true
+[2020.09.07-13.47.10:076][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/微信图片_202009071503140CA99E324BAADE8EE23D9EAAAF9818B5.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/微信图片_20200907150314.uasset'
+[2020.09.07-13.47.10:079][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/微信图片_20200907150314_Sprite_011F4FB2B4E384037BF4322952114DF45.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/微信图片_20200907150314_Sprite_0.uasset'
+[2020.09.07-13.47.10:082][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/微信图片_20200907150314_Sprite_12D26925C4BBD129A7F3C0D97FF482E24.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/微信图片_20200907150314_Sprite_1.uasset'
+[2020.09.07-13.47.10:085][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/微信图片_20200907150314_Sprite_2436C25F64C8E4B2881B8D09AC2278642.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/微信图片_20200907150314_Sprite_2.uasset'
+[2020.09.07-13.47.10:088][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/微信图片_20200907150314_Sprite_396FC255147402BA6C29B14AA3B14163A.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/微信图片_20200907150314_Sprite_3.uasset'
+[2020.09.07-13.47.10:091][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/微信图片_20200907150314_Sprite_4B8F42C75424BFE1F2BB102AA0CF42567.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/微信图片_20200907150314_Sprite_4.uasset'
+[2020.09.07-13.47.10:094][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/微信图片_20200907150314_Sprite_5BA960D064A8FF647436798B5884C1B4F.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/微信图片_20200907150314_Sprite_5.uasset'
+[2020.09.07-13.47.10:097][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/微信图片_20200907150314_Sprite_7B4B2A41247FDD4005364F6B8CABC090A.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/微信图片_20200907150314_Sprite_7.uasset'
+[2020.09.07-13.47.10:100][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/微信图片_20200907150314_Sprite_857AE984A49F458347C285AA90B86E0EF.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/微信图片_20200907150314_Sprite_8.uasset'
+[2020.09.07-13.47.10:103][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/RO战斗图-僵尸垂直_vert__爱给网_aigei_com2084C0AD4E662875639DCAAEC5E081F8.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/怪物/RO战斗图-僵尸垂直_vert__爱给网_aigei_com.uasset'
+[2020.09.07-13.47.10:107][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/RPGMAKER怪物素材-僵尸_Zombie__爱给网_aigeD0B8D5DD4CE29DF846A6D0BC0389ED71.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/怪物/RPGMAKER怪物素材-僵尸_Zombie__爱给网_aigei_com.uasset'
+[2020.09.07-13.47.10:108][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/NewPhysicalMaterial" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/NewPhysicalMaterial.uasset" SILENT=true
+[2020.09.07-13.47.10:109][963]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/NewPhysicalMaterialC00742EA449C4245B2E0B0A3ED53D0D4.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/NewPhysicalMaterial.uasset'
+[2020.09.07-13.47.10:140][963]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-13.47.10:140][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-13.47.10:261][963]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-13.47.10:261][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-13.47.10:492][963]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.09.07-13.47.10:492][963]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-13.47.10:492][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-13.47.10:602][963]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.09.07-13.47.10:602][963]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-13.47.10:602][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-13.47.10:696][963]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.09.07-13.47.10:696][963]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-13.47.10:696][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-13.47.10:804][963]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.09.07-13.47.10:805][963]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-13.47.10:805][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-13.47.10:959][963]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.09.07-13.47.10:959][963]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-13.47.10:959][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-13.47.11:052][963]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-13.47.11:052][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-13.47.11:067][963]LogSlate: Window 'ZombieIdle' being destroyed
+[2020.09.07-13.47.11:073][963]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-13.47.11:073][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-13.47.11:169][963]LogSlate: Window 'minigame2d - 虚幻编辑器' being destroyed
+[2020.09.07-13.47.11:174][963]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (中文 - QQ拼音输入法).
+[2020.09.07-13.47.11:841][963]AssetCheck: New page: 资产保存：多个资产
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Characters/NPC/zombie/Source/图像132.图像132
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/air_cube.air_cube
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperFlipbook /Game/Developers/fdy/Source/air_flip.air_flip
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com.2D_RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com__1_.2D_RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com__1_
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_0.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_0
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_1.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_1
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_10.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_10
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_11.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_11
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_12.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_12
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_13.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_13
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_14.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_14
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_15.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_15
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_2.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_2
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_3.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_3
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_4.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_4
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_5.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_5
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_6.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_6
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_7.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_7
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_8.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_8
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_9.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com_Sprite_9
+[2020.09.07-13.47.11:841][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-男学生爆头__2__爱给网_aigei_com.2D_RPG丧尸素材-自制丧尸素材-男学生爆头__2__爱给网_aigei_com
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/人物/Q版学生4方向行走图-01B_01b__爱给网_aigei_com.Q版学生4方向行走图-01B_01b__爱给网_aigei_com
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/人物/Q版学生4方向行走图-04B_04b__爱给网_aigei_com.Q版学生4方向行走图-04B_04b__爱给网_aigei_com
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/人物/Q版学生4方向行走图-09_爱给网_aigei_com.Q版学生4方向行走图-09_爱给网_aigei_com
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/场景/复古风2D_MMORPG网络游戏源码-办公桌1_111_de_爱给网_aigei_com.复古风2D_MMORPG网络游戏源码-办公桌1_111_de_爱给网_aigei_com
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/场景/日式风格恐怖类rpg游戏素材-异常感染-18_爱给网_aigei_com.日式风格恐怖类rpg游戏素材-异常感染-18_爱给网_aigei_com
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/场景/日式风格恐怖类rpg游戏素材-异常感染-45_爱给网_aigei_com.日式风格恐怖类rpg游戏素材-异常感染-45_爱给网_aigei_com
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/场景/日式风格恐怖类rpg游戏素材-异常感染-47_爱给网_aigei_com.日式风格恐怖类rpg游戏素材-异常感染-47_爱给网_aigei_com
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/场景/日式风格恐怖类rpg游戏素材-异常感染-52_爱给网_aigei_com.日式风格恐怖类rpg游戏素材-异常感染-52_爱给网_aigei_com
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/场景/日式风格恐怖类rpg游戏素材-异常感染-71_爱给网_aigei_com.日式风格恐怖类rpg游戏素材-异常感染-71_爱给网_aigei_com
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/场景/日式风格恐怖类rpg游戏素材-异常感染-73_爱给网_aigei_com.日式风格恐怖类rpg游戏素材-异常感染-73_爱给网_aigei_com
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/场景/日式风格恐怖类rpg游戏素材-异常感染-74_爱给网_aigei_com.日式风格恐怖类rpg游戏素材-异常感染-74_爱给网_aigei_com
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/场景/精神病院恐怖生存解谜题材游戏素材-84号囚犯-s30b_烤__爱给网_aigei_com.精神病院恐怖生存解谜题材游戏素材-84号囚犯-s30b_烤__爱给网_aigei_com
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/场景/精神病院恐怖生存解谜题材游戏素材-84号囚犯-烤_baked_爱给网_aigei_com.精神病院恐怖生存解谜题材游戏素材-84号囚犯-烤_baked_爱给网_aigei_com
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/微信图片_20200907150314.微信图片_20200907150314
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_0.微信图片_20200907150314_Sprite_0
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_1.微信图片_20200907150314_Sprite_1
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_2.微信图片_20200907150314_Sprite_2
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_3.微信图片_20200907150314_Sprite_3
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_4.微信图片_20200907150314_Sprite_4
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_5.微信图片_20200907150314_Sprite_5
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_7.微信图片_20200907150314_Sprite_7
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_8.微信图片_20200907150314_Sprite_8
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/怪物/RO战斗图-僵尸垂直_vert__爱给网_aigei_com.RO战斗图-僵尸垂直_vert__爱给网_aigei_com
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/怪物/RPGMAKER怪物素材-僵尸_Zombie__爱给网_aigei_com.RPGMAKER怪物素材-僵尸_Zombie__爱给网_aigei_com
+[2020.09.07-13.47.11:842][963]LogContentValidation: Display: 正在验证PhysicalMaterial /Game/Developers/NewPhysicalMaterial.NewPhysicalMaterial
+[2020.09.07-13.47.12:104][964]Cmd: QUIT_EDITOR
+[2020.09.07-13.47.12:104][964]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.09.07-13.47.12:163][964]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.09.07-13.47.12:726][964]LogExit: Preparing to exit.
+[2020.09.07-13.47.13:937][964]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-13.47.13:941][964]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-13.47.13:945][964]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-13.47.13:950][964]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-13.47.13:954][964]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-13.47.13:958][964]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-13.47.14:202][964]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.09.07-13.47.14:411][964]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-13.47.14:420][964]LogExit: Editor shut down
+[2020.09.07-13.47.14:421][964]LogExit: Transaction tracking system shut down
+[2020.09.07-13.47.15:310][964]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000028524196100), frame # 1545964
+[2020.09.07-13.47.15:310][964]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028524105080), frame # 1545964
+[2020.09.07-13.47.15:325][964]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002852417CA00), frame # 1545964
+[2020.09.07-13.47.17:696][964]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028517E2DC00), frame # 1545964
+[2020.09.07-13.47.17:696][964]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028528CCC180), frame # 1545964
+[2020.09.07-13.47.18:114][964]LogExit: Object subsystem successfully closed.
+[2020.09.07-13.47.18:920][964]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.09.07-13.47.21:838][964]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (802)
+[2020.09.07-13.47.21:847][964]LogModuleManager: Shutting down and abandoning module TextureEditor (800)
+[2020.09.07-13.47.21:848][964]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (798)
+[2020.09.07-13.47.21:848][964]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (796)
+[2020.09.07-13.47.21:848][964]LogModuleManager: Shutting down and abandoning module Voice (794)
+[2020.09.07-13.47.21:858][964]LogModuleManager: Shutting down and abandoning module BlueprintGraph (792)
+[2020.09.07-13.47.21:869][964]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2020.09.07-13.47.21:869][964]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2020.09.07-13.47.21:869][964]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2020.09.07-13.47.21:893][964]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2020.09.07-13.47.21:893][964]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2020.09.07-13.47.21:893][964]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2020.09.07-13.47.21:904][964]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2020.09.07-13.47.21:915][964]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2020.09.07-13.47.21:915][964]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2020.09.07-13.47.21:921][964]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2020.09.07-13.47.21:944][964]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2020.09.07-13.47.21:947][964]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2020.09.07-13.47.21:947][964]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2020.09.07-13.47.21:947][964]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2020.09.07-13.47.21:957][964]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2020.09.07-13.47.21:957][964]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2020.09.07-13.47.21:962][964]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2020.09.07-13.47.21:962][964]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2020.09.07-13.47.21:962][964]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2020.09.07-13.47.21:962][964]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2020.09.07-13.47.21:966][964]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2020.09.07-13.47.22:048][964]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2020.09.07-13.47.22:133][964]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2020.09.07-13.47.22:155][964]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2020.09.07-13.47.22:162][964]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2020.09.07-13.47.22:162][964]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2020.09.07-13.47.22:162][964]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2020.09.07-13.47.22:174][964]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2020.09.07-13.47.22:174][964]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2020.09.07-13.47.22:182][964]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2020.09.07-13.47.22:198][964]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2020.09.07-13.47.22:207][964]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2020.09.07-13.47.22:287][964]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2020.09.07-13.47.22:294][964]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2020.09.07-13.47.22:294][964]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2020.09.07-13.47.22:294][964]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2020.09.07-13.47.22:294][964]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2020.09.07-13.47.22:294][964]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2020.09.07-13.47.22:294][964]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2020.09.07-13.47.22:294][964]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2020.09.07-13.47.22:305][964]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2020.09.07-13.47.22:306][964]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2020.09.07-13.47.22:306][964]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2020.09.07-13.47.22:315][964]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2020.09.07-13.47.22:315][964]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2020.09.07-13.47.22:315][964]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2020.09.07-13.47.22:315][964]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2020.09.07-13.47.22:316][964]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2020.09.07-13.47.22:316][964]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2020.09.07-13.47.22:327][964]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2020.09.07-13.47.22:327][964]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2020.09.07-13.47.22:327][964]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2020.09.07-13.47.22:381][964]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2020.09.07-13.47.22:381][964]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2020.09.07-13.47.22:381][964]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2020.09.07-13.47.22:402][964]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2020.09.07-13.47.22:404][964]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2020.09.07-13.47.22:417][964]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2020.09.07-13.47.22:421][964]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2020.09.07-13.47.22:437][964]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2020.09.07-13.47.22:437][964]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2020.09.07-13.47.22:447][964]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2020.09.07-13.47.22:448][964]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2020.09.07-13.47.23:703][964]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2020.09.07-13.47.23:703][964]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2020.09.07-13.47.23:703][964]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2020.09.07-13.47.23:703][964]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2020.09.07-13.47.23:703][964]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2020.09.07-13.47.23:766][964]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2020.09.07-13.47.23:776][964]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2020.09.07-13.47.23:776][964]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2020.09.07-13.47.23:786][964]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2020.09.07-13.47.23:793][964]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2020.09.07-13.47.23:806][964]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2020.09.07-13.47.23:819][964]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2020.09.07-13.47.23:827][964]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2020.09.07-13.47.23:827][964]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2020.09.07-13.47.23:834][964]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2020.09.07-13.47.23:851][964]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2020.09.07-13.47.23:896][964]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2020.09.07-13.47.23:896][964]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2020.09.07-13.47.23:896][964]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2020.09.07-13.47.23:902][964]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2020.09.07-13.47.23:903][964]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2020.09.07-13.47.23:912][964]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2020.09.07-13.47.23:927][964]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2020.09.07-13.47.23:946][964]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2020.09.07-13.47.23:951][964]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2020.09.07-13.47.23:963][964]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2020.09.07-13.47.24:008][964]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2020.09.07-13.47.24:013][964]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2020.09.07-13.47.24:021][964]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2020.09.07-13.47.24:031][964]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2020.09.07-13.47.24:031][964]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2020.09.07-13.47.24:031][964]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2020.09.07-13.47.24:031][964]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2020.09.07-13.47.24:044][964]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2020.09.07-13.47.24:064][964]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2020.09.07-13.47.24:064][964]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2020.09.07-13.47.24:064][964]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2020.09.07-13.47.24:093][964]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2020.09.07-13.47.24:093][964]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2020.09.07-13.47.24:093][964]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2020.09.07-13.47.24:148][964]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2020.09.07-13.47.24:150][964]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2020.09.07-13.47.24:151][964]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2020.09.07-13.47.24:157][964]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2020.09.07-13.47.24:180][964]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2020.09.07-13.47.24:187][964]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2020.09.07-13.47.24:189][964]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2020.09.07-13.47.24:208][964]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2020.09.07-13.47.24:208][964]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2020.09.07-13.47.24:213][964]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2020.09.07-13.47.24:213][964]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2020.09.07-13.47.24:217][964]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2020.09.07-13.47.24:217][964]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2020.09.07-13.47.24:217][964]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2020.09.07-13.47.24:217][964]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2020.09.07-13.47.24:217][964]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2020.09.07-13.47.24:217][964]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2020.09.07-13.47.24:217][964]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2020.09.07-13.47.24:217][964]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2020.09.07-13.47.24:228][964]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2020.09.07-13.47.24:228][964]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2020.09.07-13.47.24:228][964]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2020.09.07-13.47.24:228][964]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2020.09.07-13.47.24:385][964]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2020.09.07-13.47.24:386][964]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2020.09.07-13.47.24:386][964]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2020.09.07-13.47.24:386][964]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2020.09.07-13.47.24:406][964]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2020.09.07-13.47.24:408][964]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2020.09.07-13.47.24:408][964]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2020.09.07-13.47.24:408][964]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2020.09.07-13.47.24:413][964]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2020.09.07-13.47.24:413][964]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2020.09.07-13.47.24:413][964]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2020.09.07-13.47.24:419][964]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2020.09.07-13.47.24:419][964]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2020.09.07-13.47.24:419][964]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2020.09.07-13.47.24:419][964]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2020.09.07-13.47.24:425][964]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2020.09.07-13.47.24:425][964]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2020.09.07-13.47.24:425][964]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2020.09.07-13.47.24:425][964]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2020.09.07-13.47.24:425][964]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2020.09.07-13.47.24:425][964]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2020.09.07-13.47.24:437][964]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2020.09.07-13.47.24:455][964]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2020.09.07-13.47.24:456][964]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2020.09.07-13.47.24:456][964]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2020.09.07-13.47.24:461][964]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2020.09.07-13.47.24:461][964]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2020.09.07-13.47.24:463][964]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2020.09.07-13.47.24:468][964]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2020.09.07-13.47.24:476][964]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2020.09.07-13.47.24:476][964]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2020.09.07-13.47.24:476][964]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2020.09.07-13.47.24:476][964]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2020.09.07-13.47.24:476][964]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2020.09.07-13.47.24:476][964]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2020.09.07-13.47.24:476][964]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2020.09.07-13.47.24:476][964]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2020.09.07-13.47.24:476][964]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2020.09.07-13.47.24:510][964]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2020.09.07-13.47.24:514][964]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2020.09.07-13.47.24:526][964]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2020.09.07-13.47.24:537][964]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2020.09.07-13.47.24:546][964]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2020.09.07-13.47.24:550][964]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2020.09.07-13.47.24:551][964]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2020.09.07-13.47.24:551][964]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2020.09.07-13.47.24:556][964]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2020.09.07-13.47.24:556][964]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2020.09.07-13.47.24:556][964]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2020.09.07-13.47.24:556][964]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2020.09.07-13.47.24:556][964]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2020.09.07-13.47.24:562][964]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2020.09.07-13.47.24:562][964]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2020.09.07-13.47.24:566][964]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2020.09.07-13.47.24:574][964]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2020.09.07-13.47.24:574][964]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2020.09.07-13.47.24:574][964]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2020.09.07-13.47.24:574][964]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2020.09.07-13.47.24:574][964]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2020.09.07-13.47.24:574][964]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2020.09.07-13.47.24:574][964]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2020.09.07-13.47.24:586][964]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2020.09.07-13.47.24:625][964]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2020.09.07-13.47.24:625][964]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2020.09.07-13.47.24:651][964]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2020.09.07-13.47.24:654][964]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2020.09.07-13.47.24:662][964]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2020.09.07-13.47.24:671][964]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2020.09.07-13.47.24:690][964]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2020.09.07-13.47.24:693][964]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2020.09.07-13.47.24:693][964]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2020.09.07-13.47.24:699][964]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2020.09.07-13.47.24:699][964]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2020.09.07-13.47.24:699][964]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2020.09.07-13.47.24:709][964]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2020.09.07-13.47.24:709][964]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2020.09.07-13.47.24:714][964]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2020.09.07-13.47.24:732][964]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2020.09.07-13.47.24:740][964]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2020.09.07-13.47.24:745][964]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2020.09.07-13.47.24:753][964]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2020.09.07-13.47.24:753][964]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2020.09.07-13.47.24:764][964]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2020.09.07-13.47.24:764][964]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2020.09.07-13.47.24:767][964]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2020.09.07-13.47.24:767][964]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2020.09.07-13.47.24:767][964]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2020.09.07-13.47.24:767][964]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.09.07-13.47.24:767][964]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.09.07-13.47.24:767][964]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.09.07-13.47.24:767][964]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.09.07-13.47.24:767][964]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.09.07-13.47.24:767][964]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.09.07-13.47.24:767][964]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.09.07-13.47.24:877][964]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.09.07-13.47.24:994][964]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.09.07-13.47.24:994][964]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.09.07-13.47.24:994][964]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.09.07-13.47.24:994][964]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.09.07-13.47.24:994][964]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.09.07-13.47.25:000][964]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.09.07-13.47.25:000][964]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.09.07-13.47.25:010][964]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.09.07-13.47.25:010][964]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.09.07-13.47.25:018][964]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.09.07-13.47.25:024][964]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.09.07-13.47.25:045][964]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.09.07-13.47.25:046][964]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.09.07-13.47.25:050][964]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.09.07-13.47.25:050][964]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.09.07-13.47.25:050][964]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.09.07-13.47.25:050][964]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.09.07-13.47.25:069][964]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.09.07-13.47.25:069][964]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.09.07-13.47.25:146][964]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.09.07-13.47.25:146][964]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.09.07-13.47.25:157][964]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.09.07-13.47.25:163][964]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.09.07-13.47.25:163][964]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.09.07-13.47.25:163][964]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.09.07-13.47.25:175][964]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.09.07-13.47.25:185][964]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.09.07-13.47.25:198][964]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.09.07-13.47.25:206][964]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.09.07-13.47.25:217][964]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.09.07-13.47.25:222][964]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.09.07-13.47.25:222][964]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.09.07-13.47.25:233][964]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.09.07-13.47.25:233][964]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.09.07-13.47.25:233][964]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.09.07-13.47.25:233][964]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.09.07-13.47.25:242][964]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.09.07-13.47.25:242][964]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.09.07-13.47.25:252][964]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.09.07-13.47.25:252][964]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.09.07-13.47.25:252][964]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.09.07-13.47.25:270][964]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.09.07-13.47.25:270][964]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.09.07-13.47.25:270][964]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.09.07-13.47.25:270][964]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.09.07-13.47.25:279][964]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.09.07-13.47.25:287][964]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.09.07-13.47.25:287][964]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.09.07-13.47.25:306][964]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.09.07-13.47.25:318][964]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.09.07-13.47.25:369][964]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.09.07-13.47.25:384][964]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.09.07-13.47.25:416][964]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.09.07-13.47.25:416][964]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.09.07-13.47.25:437][964]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.09.07-13.47.25:442][964]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.09.07-13.47.25:511][964]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.09.07-13.47.25:524][964]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.09.07-13.47.25:524][964]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.09.07-13.47.25:524][964]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.09.07-13.47.25:524][964]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.09.07-13.47.25:524][964]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.09.07-13.47.25:524][964]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.09.07-13.47.25:524][964]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.09.07-13.47.25:524][964]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.09.07-13.47.25:531][964]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.09.07-13.47.25:531][964]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.09.07-13.47.25:531][964]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.09.07-13.47.25:562][964]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.09.07-13.47.25:692][964]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.09.07-13.47.25:753][964]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.09.07-13.47.25:756][964]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.09.07-13.47.25:756][964]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.09.07-13.47.25:756][964]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.09.07-13.47.25:761][964]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.09.07-13.47.25:768][964]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.09.07-13.47.25:780][964]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.09.07-13.47.25:791][964]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.09.07-13.47.25:798][964]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.09.07-13.47.25:868][964]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.09.07-13.47.25:884][964]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.09.07-13.47.25:896][964]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.09.07-13.47.25:896][964]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.09.07-13.47.25:905][964]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.09.07-13.47.25:905][964]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.09.07-13.47.25:912][964]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.09.07-13.47.25:923][964]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.09.07-13.47.25:933][964]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.09.07-13.47.25:943][964]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.09.07-13.47.25:943][964]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.09.07-13.47.25:953][964]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.09.07-13.47.25:953][964]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.09.07-13.47.25:963][964]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.09.07-13.47.25:963][964]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.09.07-13.47.25:968][964]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.09.07-13.47.25:968][964]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.09.07-13.47.25:968][964]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.09.07-13.47.25:975][964]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.09.07-13.47.25:982][964]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.09.07-13.47.25:999][964]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.09.07-13.47.25:999][964]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.09.07-13.47.25:999][964]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.09.07-13.47.25:999][964]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.09.07-13.47.25:999][964]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.09.07-13.47.26:011][964]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.09.07-13.47.26:034][964]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.09.07-13.47.26:051][964]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.09.07-13.47.26:063][964]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.09.07-13.47.26:066][964]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.09.07-13.47.26:078][964]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.09.07-13.47.26:087][964]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.09.07-13.47.26:136][964]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.09.07-13.47.26:148][964]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.09.07-13.47.26:149][964]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.09.07-13.47.26:149][964]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.09.07-13.47.26:153][964]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.09.07-13.47.26:171][964]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.09.07-13.47.26:171][964]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.09.07-13.47.26:171][964]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.09.07-13.47.26:171][964]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.09.07-13.47.26:172][964]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.09.07-13.47.26:172][964]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.09.07-13.47.26:182][964]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.09.07-13.47.26:182][964]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.09.07-13.47.26:182][964]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.09.07-13.47.26:182][964]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.09.07-13.47.26:183][964]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.09.07-13.47.26:193][964]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.09.07-13.47.26:202][964]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.09.07-13.47.26:202][964]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.09.07-13.47.26:212][964]LogHMD: Freeing OpenVRDLLHandle.
+[2020.09.07-13.47.26:212][964]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.09.07-13.47.26:224][964]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.09.07-13.47.26:224][964]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.09.07-13.47.26:224][964]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.09.07-13.47.26:224][964]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.09.07-13.47.26:243][964]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.09.07-13.47.26:255][964]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.09.07-13.47.26:281][964]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.09.07-13.47.26:281][964]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.09.07-13.47.26:281][964]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B83949AA5-4370-773C-6016-61B73099A9E0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=0a7465674659920a8c7c4f846aa0c5dd%7C008155afdb0344378b2bf30ad5b1af7c%7C2f97ace2-e986-4a4c-b319-8c9a03e11781&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.09.07-13.47.26:281][964]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B83949AA5-4370-773C-6016-61B73099A9E0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=0a7465674659920a8c7c4f846aa0c5dd%7C008155afdb0344378b2bf30ad5b1af7c%7C2f97ace2-e986-4a4c-b319-8c9a03e11781&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.09.07-13.47.26:281][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.26:782][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.27:282][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.27:783][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.28:283][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.28:784][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.29:285][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.29:786][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.30:286][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.30:787][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.31:288][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.31:788][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.32:288][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.32:789][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.33:289][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.33:790][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.34:290][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.34:791][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.35:291][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.35:792][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.36:292][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.36:793][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.37:293][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.37:794][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.38:295][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.38:796][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.39:296][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.39:796][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.40:297][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.40:798][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.41:298][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.41:799][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.42:300][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.42:801][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.43:302][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.43:802][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.44:303][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.44:804][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.45:305][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.45:806][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.46:306][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.46:807][964]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.09.07-13.47.47:317][964]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.09.07-13.47.47:354][964]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.09.07-13.47.47:369][964]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.09.07-13.47.47:370][964]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.09.07-13.47.47:370][964]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.09.07-13.47.47:375][964]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.09.07-13.47.47:375][964]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.09.07-13.47.47:375][964]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.09.07-13.47.47:375][964]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.09.07-13.47.47:375][964]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.09.07-13.47.47:380][964]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.09.07-13.47.47:386][964]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.09.07-13.47.47:386][964]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.09.07-13.47.47:386][964]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.09.07-13.47.47:389][964]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.09.07-13.47.47:438][964]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.09.07-13.47.47:508][964]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.09.07-13.47.47:516][964]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.09.07-13.47.47:516][964]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.09.07-13.47.47:516][964]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.09.07-13.47.47:531][964]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.09.07-13.47.47:536][964]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.09.07-13.47.47:536][964]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.09.07-13.47.47:536][964]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.09.07-13.47.47:552][964]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.09.07-13.47.47:556][964]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.09.07-13.47.47:556][964]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.09.07-13.47.47:556][964]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.09.07-13.47.47:556][964]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.09.07-13.47.47:566][964]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.09.07-13.47.47:572][964]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.09.07-13.47.47:581][964]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.09.07-13.47.47:593][964]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.09.07-13.47.47:625][964]LogD3D11RHI: Shutdown
+[2020.09.07-13.47.47:625][964]LogD3D11RHI: CleanupD3DDevice
+[2020.09.07-13.47.47:960][964]LogExit: Exiting.
+[2020.09.07-13.47.47:985][964]Log file closed, 09/07/20 21:47:47
