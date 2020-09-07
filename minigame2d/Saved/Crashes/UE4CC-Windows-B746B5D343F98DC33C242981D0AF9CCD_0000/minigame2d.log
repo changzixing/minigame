@@ -1,0 +1,1538 @@
+﻿Log file open, 09/07/20 14:16:02
+LogInit: Display: Running engine for game: minigame2d
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.255224
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE4/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Engine.ini]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Engine.ini]
+[2020.09.07-06.16.02:938][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Engine.ini]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Engine.ini]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.07-06.16.02:938][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Engine.ini]
+[2020.09.07-06.16.02:938][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Engine.ini]
+[2020.09.07-06.16.02:941][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.07-06.16.02:941][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.09.07-06.16.02:942][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.09.07-06.16.02:943][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.07-06.16.02:943][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.07-06.16.02:943][  0]LogHAL: Display: Platform has ~ 8 GB [8529817600 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.07-06.16.02:943][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.07-06.16.02:943][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.07-06.16.02:943][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.09.07-06.16.02:944][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/work/Minigame/My2Dgame/minigame2d/Saved/Config/Windows/Engine.ini]
+[2020.09.07-06.16.02:944][  0]LogInit: Computer: DESKTOP-F8A91D3
+[2020.09.07-06.16.02:944][  0]LogInit: User: fdy
+[2020.09.07-06.16.02:944][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.09.07-06.16.02:944][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.07-06.16.02:944][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.09.07-06.16.02:944][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.07-06.16.02:944][  0]LogMemory: Process Physical Memory: 114.84 MB used, 114.84 MB peak
+[2020.09.07-06.16.02:944][  0]LogMemory: Process Virtual Memory: 104.13 MB used, 104.13 MB peak
+[2020.09.07-06.16.02:945][  0]LogMemory: Physical Memory: 4856.52 MB used,  3278.14 MB free, 8134.67 MB total
+[2020.09.07-06.16.02:945][  0]LogMemory: Virtual Memory: 5145.53 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.09.07-06.16.02:950][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.07-06.16.02:975][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.09.07-06.16.02:975][  0]LogInit: Using OS detected language (zh-CN).
+[2020.09.07-06.16.02:975][  0]LogInit: Using OS detected locale (zh-CN).
+[2020.09.07-06.16.02:977][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2020.09.07-06.16.03:064][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2020.09.07-06.16.03:064][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2020.09.07-06.16.03:064][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2020.09.07-06.16.03:064][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2020.09.07-06.16.03:064][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2020.09.07-06.16.03:064][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2020.09.07-06.16.03:065][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2020.09.07-06.16.03:065][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.09.07-06.16.03:065][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.09.07-06.16.03:065][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2020.09.07-06.16.03:065][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.09.07-06.16.03:118][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.07-06.16.03:140][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.07-06.16.03:140][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.07-06.16.03:238][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.07-06.16.03:238][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.09.07-06.16.03:238][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.09.07-06.16.03:238][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.07-06.16.03:297][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.09.07-06.16.03:297][  0]LogD3D11RHI:       4018/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.09.07-06.16.03:299][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.07-06.16.03:299][  0]LogD3D11RHI:       0/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.07-06.16.03:299][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.07-06.16.03:307][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.07-06.16.03:307][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.07-06.16.03:307][  0]LogWindows: EnumDisplayDevices:
+[2020.09.07-06.16.03:307][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2020.09.07-06.16.03:307][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.09.07-06.16.03:308][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.09.07-06.16.03:308][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.09.07-06.16.03:309][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.09.07-06.16.03:309][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.09.07-06.16.03:309][  0]LogD3D11RHI:   Driver Version: 442.50 (internal:26.21.14.4250, unified:442.50)
+[2020.09.07-06.16.03:309][  0]LogD3D11RHI:      Driver Date: 2-24-2020
+[2020.09.07-06.16.03:309][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2020.09.07-06.16.03:345][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.09.07-06.16.03:347][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.09.07-06.16.03:347][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.07-06.16.03:347][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.09.07-06.16.03:362][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.09.07-06.16.03:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.09.07-06.16.03:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.09.07-06.16.03:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.09.07-06.16.03:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.09.07-06.16.03:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.09.07-06.16.03:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.09.07-06.16.03:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.07-06.16.03:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.09.07-06.16.03:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.07-06.16.03:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.09.07-06.16.03:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.09.07-06.16.03:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.09.07-06.16.03:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.09.07-06.16.03:787][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.09.07-06.16.03:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.07-06.16.03:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.09.07-06.16.03:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.09.07-06.16.03:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.09.07-06.16.03:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.09.07-06.16.03:836][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.09.07-06.16.03:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.09.07-06.16.03:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.09.07-06.16.03:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.09.07-06.16.03:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.09.07-06.16.03:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.07-06.16.03:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.09.07-06.16.03:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.09.07-06.16.03:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.09.07-06.16.03:903][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.07-06.16.03:911][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.07-06.16.03:963][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (F:/work/Minigame/My2Dgame/minigame2d/Intermediate/Shaders/WorkingDirectory/11840/).
+[2020.09.07-06.16.03:963][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fdy/AppData/Local/Temp/UnrealShaderWorkingDir/BE59A2644F5289481834518BCBA32C29/'.
+[2020.09.07-06.16.03:963][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.07-06.16.03:963][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.07-06.16.03:964][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.07-06.16.04:646][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.07-06.16.04:729][  0]LogDerivedDataCache: Loaded boot cache 0.08s 76MB C:/Users/fdy/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.09.07-06.16.04:729][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fdy/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.09.07-06.16.04:729][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/work/Minigame/My2Dgame/minigame2d/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.07-06.16.04:729][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.07-06.16.04:729][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/work/Minigame/My2Dgame/minigame2d/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.07-06.16.04:729][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.07-06.16.04:739][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.07-06.16.04:740][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.07-06.16.04:740][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.07-06.16.04:741][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fdy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.07-06.16.04:741][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.07-06.16.04:741][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.07-06.16.04:788][  0]LogSlate: Using FreeType 2.10.0
+[2020.09.07-06.16.04:789][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.07-06.16.04:813][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.09.07-06.16.05:020][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.07-06.16.05:130][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.07-06.16.05:130][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.07-06.16.05:130][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.07-06.16.05:130][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.07-06.16.05:130][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.07-06.16.05:142][  0]LogNetVersion: minigame2d 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 4127243195)
+[2020.09.07-06.16.05:540][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000028524196100), frame # 0
+[2020.09.07-06.16.05:540][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028524105080), frame # 0
+[2020.09.07-06.16.05:544][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002852417CA00), frame # 0
+[2020.09.07-06.16.05:922][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 2 prioritized culture(s) in 0.371286 seconds
+[2020.09.07-06.16.05:935][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.09.07-06.16.05:935][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.09.07-06.16.05:935][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.07-06.16.06:436][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.07-06.16.06:440][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.07-06.16.06:512][  0]SourceControl: 源码管理已禁用
+[2020.09.07-06.16.06:512][  0]SourceControl: 源码管理已禁用
+[2020.09.07-06.16.06:515][  0]SourceControl: 源码管理已禁用
+[2020.09.07-06.16.06:519][  0]SourceControl: 源码管理已禁用
+[2020.09.07-06.16.06:525][  0]SourceControl: 源码管理已禁用
+[2020.09.07-06.16.06:762][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.07-06.16.06:781][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.07-06.16.06:781][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.07-06.16.06:826][  0]LogOcInput: OculusInput pre-init called
+[2020.09.07-06.16.06:835][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.07-06.16.06:835][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.07-06.16.06:890][  0]LogEngine: Initializing Engine...
+[2020.09.07-06.16.07:000][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.07-06.16.07:016][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.09.07-06.16.07:017][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.09.07-06.16.07:184][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.07-06.16.07:191][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.07-06.16.07:191][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028529361C00), frame # 0
+[2020.09.07-06.16.07:191][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028529376C00), frame # 0
+[2020.09.07-06.16.07:195][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-06.16.07:195][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-06.16.07:195][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-06.16.07:195][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-06.16.07:195][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-06.16.07:195][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-06.16.07:195][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-06.16.07:195][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-06.16.07:195][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-06.16.07:195][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-06.16.07:208][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-06.16.07:208][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-06.16.07:255][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.07-06.16.07:256][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-06.16.07:257][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-06.16.07:257][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-06.16.07:258][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-06.16.07:264][  0]LogInit: FAudioDevice initialized.
+[2020.09.07-06.16.07:265][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.07-06.16.07:327][  0]LogDerivedDataCache: Saved boot cache 0.06s 76MB C:/Users/fdy/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.09.07-06.16.07:327][  0]LogInit: Texture streaming: Enabled
+[2020.09.07-06.16.07:345][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.07-06.16.07:345][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.07-06.16.07:347][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.07-06.16.07:451][  0]LogInit: Transaction tracking system initialized
+[2020.09.07-06.16.07:470][  0]BlueprintLog: New page: 编辑器加载
+[2020.09.07-06.16.07:532][  0]LocalizationService: 本地化服务已禁用
+[2020.09.07-06.16.08:479][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.07-06.16.08:479][  0]LogCook: Display: Mobile HDR setting 0
+[2020.09.07-06.16.08:605][  0]LogFileCache: Scanning file cache for directory 'F:/work/Minigame/My2Dgame/minigame2d/Content/' took 0.49s
+[2020.09.07-06.16.08:821][  0]SourceControl: 源码管理已禁用
+[2020.09.07-06.16.08:821][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.080
+[2020.09.07-06.16.08:821][  0]Cmd: MAP LOAD FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_00.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.07-06.16.08:821][  0]LightingResults: New page: 光照构建
+[2020.09.07-06.16.08:822][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-06.16.08:822][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-06.16.08:822][  0]MapCheck: New page: 地图检测
+[2020.09.07-06.16.08:822][  0]LightingResults: New page: 光照构建
+[2020.09.07-06.16.08:831][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028529361C00), frame # 0
+[2020.09.07-06.16.08:831][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028529376C00), frame # 0
+[2020.09.07-06.16.08:832][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.09.07-06.16.18:488][  0]LogAIModule: Creating AISystem for world level_00
+[2020.09.07-06.16.18:488][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028517E2DC00), frame # 0
+[2020.09.07-06.16.18:488][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028528CCC180), frame # 0
+[2020.09.07-06.16.18:774][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.07-06.16.18:808][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.09.07-06.16.18:808][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.07-06.16.18:809][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.098毫秒。
+[2020.09.07-06.16.18:809][  0]LogFileHelpers: Loading map 'level_00' took 9.987
+[2020.09.07-06.16.18:851][  0]LogUnrealEdMisc: Total Editor Startup Time, took 17.109
+[2020.09.07-06.16.21:232][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-06.16.21:285][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-06.16.21:292][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-06.16.21:298][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-06.16.21:543][  0]LogCollectionManager: Loaded 0 collections in 0.000651 seconds
+[2020.09.07-06.16.22:128][  0]LogFileCache: Scanning file cache for directory 'F:/work/Minigame/My2Dgame/minigame2d/Saved/Collections/' took 0.00s
+[2020.09.07-06.16.22:128][  0]LogFileCache: Scanning file cache for directory 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Collections/' took 0.00s
+[2020.09.07-06.16.22:128][  0]LogFileCache: Scanning file cache for directory 'F:/work/Minigame/My2Dgame/minigame2d/Content/Collections/' took 0.00s
+[2020.09.07-06.16.22:128][  0]LogContentBrowser: Native class hierarchy populated in 0.0422 seconds. Added 3427 classes and 821 folders.
+[2020.09.07-06.16.22:534][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.09.07-06.16.25:359][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.09.07-06.16.25:618][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.09.07-06.16.29:314][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.07-06.16.29:347][  0]LogSlate: Took 0.002117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.09.07-06.16.29:427][  0]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.07-06.16.29:596][  0]LogSlate: Took 0.013338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.07-06.16.31:323][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.09.07-06.16.34:566][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.07-06.16.34:566][  0]LogLoad: (Engine Initialization) Total time: 32.82 seconds
+[2020.09.07-06.16.34:566][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.07-06.16.35:024][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.09.07-06.16.35:514][  0]LogSlate: Took 0.019727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.07-06.16.35:745][  1]LogFileCache: Retrieving MD5 hashes for directory 'F:/work/Minigame/My2Dgame/minigame2d/Content/' took 1.13s
+[2020.09.07-06.16.35:781][  1]LogAssetRegistry: Asset discovery search completed in 30.9694 seconds
+[2020.09.07-06.16.35:785][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.09.07-06.16.36:389][  2]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.07-06.19.51:363][752]LogSlate: Window '选取父类' being destroyed
+[2020.09.07-06.19.54:524][107]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.09.07-06.19.55:234][190]Cmd: DELETE
+[2020.09.07-06.19.55:234][190]Cmd: ACTOR DELETE
+[2020.09.07-06.19.55:457][190]LogEditorActor: Deleted Actor: TriggerBox
+[2020.09.07-06.19.55:467][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.09.07-06.19.55:470][190]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.09.07-06.20.11:163][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.09.07-06.20.11:171][ 12]LogMetaData: Removing '/Game/Developers/fdy/TriggerBox/SchoolGate_box.SchoolGate_box:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Developers/fdy/TriggerBox/NewBlueprint.PackageMetaData'
+[2020.09.07-06.20.11:172][ 12]LogMetaData: Removing '/Game/Developers/fdy/TriggerBox/SchoolGate_box.SKEL_SchoolGate_box_C' ref from Metadata '/Game/Developers/fdy/TriggerBox/NewBlueprint.PackageMetaData'
+[2020.09.07-06.20.11:172][ 12]LogMetaData: Removing '/Game/Developers/fdy/TriggerBox/SchoolGate_box.SchoolGate_box_C' ref from Metadata '/Game/Developers/fdy/TriggerBox/NewBlueprint.PackageMetaData'
+[2020.09.07-06.20.11:172][ 12]LogMetaData: Removing '/Game/Developers/fdy/TriggerBox/SchoolGate_box.SchoolGate_box:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Developers/fdy/TriggerBox/NewBlueprint.PackageMetaData'
+[2020.09.07-06.20.11:172][ 12]LogMetaData: Removing '/Game/Developers/fdy/TriggerBox/SchoolGate_box.SchoolGate_box:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Developers/fdy/TriggerBox/NewBlueprint.PackageMetaData'
+[2020.09.07-06.20.11:172][ 12]LogMetaData: Removing '/Game/Developers/fdy/TriggerBox/SchoolGate_box.SchoolGate_box:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Developers/fdy/TriggerBox/NewBlueprint.PackageMetaData'
+[2020.09.07-06.20.11:234][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/TriggerBox/SchoolGate_box" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/TriggerBox/SchoolGate_box.uasset" SILENT=true
+[2020.09.07-06.20.11:398][ 12]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/SchoolGate_box4753B0C2441C55F8DDE2A4B53FA86C74.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/TriggerBox/SchoolGate_box.uasset'
+[2020.09.07-06.20.11:522][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.09.07-06.20.11:542][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.09.07-06.20.11:552][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.09.07-06.20.11:632][ 12]AssetCheck: New page: 资产保存：SchoolGate_box
+[2020.09.07-06.20.11:632][ 12]LogContentValidation: Display: 正在验证Blueprint /Game/Developers/fdy/TriggerBox/SchoolGate_box.SchoolGate_box
+[2020.09.07-06.20.15:572][463]LogSlate: Took 0.010170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.07-06.20.22:442][259]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.20.23:236][320]LogEditorViewport: Clicking on Actor (LMB): SchoolGate_box_C (SchoolGate_box)
+[2020.09.07-06.20.27:808][844]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/fdy/TriggerBox/SchoolGate_box.SchoolGate_box
+[2020.09.07-06.20.28:382][844]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 125 classes and 0 folders.
+[2020.09.07-06.20.31:484][982]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:130).
+[2020.09.07-06.20.33:190][125]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.07-06.25.21:263][130]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.07-06.25.23:673][394]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.07-06.25.23:736][394]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (中文 - QQ拼音输入法).
+[2020.09.07-06.26.34:915][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.09.07-06.26.34:987][ 97]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/level_00_Auto1E3A052B04C6BC8E9F26373B83AD2024C.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Saved/Autosaves/Game/Developers/fdy/Maps/level_00_Auto1.umap'
+[2020.09.07-06.26.34:988][ 97]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/fdy/Maps/level_00' took 0.108
+[2020.09.07-06.26.34:988][ 97]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.108
+[2020.09.07-06.26.34:989][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/fdy/TriggerBox/SchoolGate_box] ([1] browsable assets)...
+[2020.09.07-06.26.34:989][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/fdy/TriggerBox/SchoolGate_box]
+[2020.09.07-06.26.34:996][ 97]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/SchoolGate_box_Auto1BDC888C847C6B70AEB7379A400E20C7C.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Saved/Autosaves/Game/Developers/fdy/TriggerBox/SchoolGate_box_Auto1.uasset'
+[2020.09.07-06.26.34:996][ 97]LogFileHelpers: Auto-saving content packages took 0.008
+[2020.09.07-06.28.21:257][121]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.07-06.28.21:257][121]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.07-06.29.18:587][758]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.07-06.29.18:618][758]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (中文 - QQ拼音输入法).
+[2020.09.07-06.29.22:889][203]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.07-06.29.22:889][203]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.07-06.30.15:192][723]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.07-06.30.15:227][723]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (中文 - QQ拼音输入法).
+[2020.09.07-06.32.10:577][ 56]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/fdy/TriggerBox/Tigger_box.Tigger_box
+[2020.09.07-06.32.10:909][ 56]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/fdy/TriggerBox/Bridge_box.Bridge_box
+[2020.09.07-06.32.11:236][ 56]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/fdy/Characters/Player/PlayerBP.PlayerBP
+[2020.09.07-06.32.11:560][ 56]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/fdy/Characters/NPC/student/student.student
+[2020.09.07-06.32.11:875][ 56]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Developers/fdy/TriggerBox/Bridge_enum.Bridge_enum
+[2020.09.07-06.32.19:493][870]LogActorFactory: Actor Factory created Plane
+[2020.09.07-06.32.22:090][157]LogStaticMesh: 正在构建静态网格体Plane……
+[2020.09.07-06.32.22:181][157]LogStaticMesh: Built static mesh [0.08s] /Game/Developers/fdy/Source/Plane.Plane
+[2020.09.07-06.32.35:719][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.09.07-06.32.37:313][730]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.07-06.32.37:633][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.09.07-06.32.37:700][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.09.07-06.32.37:725][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.09.07-06.33.37:026][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/TriggerBox/SchoolGate_box" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/TriggerBox/SchoolGate_box.uasset" SILENT=true
+[2020.09.07-06.33.37:055][934]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/SchoolGate_box6851AD3E49580CA38DF704BA8971E644.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/TriggerBox/SchoolGate_box.uasset'
+[2020.09.07-06.33.37:071][934]AssetCheck: New page: 资产保存：SchoolGate_box
+[2020.09.07-06.33.37:071][934]LogContentValidation: Display: 正在验证Blueprint /Game/Developers/fdy/TriggerBox/SchoolGate_box.SchoolGate_box
+[2020.09.07-06.34.18:137][788]LogEditorViewport: Clicking on Actor (LMB): SchoolGate_box_C (SchoolGate_box)
+[2020.09.07-06.35.17:449][163]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.07-06.35.17:449][163]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.07-06.36.00:197][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Maps/level_00" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.07-06.36.00:224][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.09.07-06.36.00:243][446]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/level_00E124BA8445A76C7F427D9D8759280C44.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_00.umap'
+[2020.09.07-06.36.00:263][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Maps/level_00_BuiltData" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_00_BuiltData.uasset" SILENT=true
+[2020.09.07-06.36.00:266][446]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/level_00_BuiltDataF3E2614841099486A81857A739B7F67F.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_00_BuiltData.uasset'
+[2020.09.07-06.36.00:281][446]AssetCheck: New page: 资产保存：多个资产
+[2020.09.07-06.36.00:281][446]LogContentValidation: Display: 正在验证World /Game/Developers/fdy/Maps/level_00.level_00
+[2020.09.07-06.36.00:281][446]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/Developers/fdy/Maps/level_00_BuiltData.level_00_BuiltData
+[2020.09.07-06.36.08:027][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/TriggerBox/SchoolGate_box" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/TriggerBox/SchoolGate_box.uasset" SILENT=true
+[2020.09.07-06.36.08:036][167]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/SchoolGate_boxB6F9BB58415689E778E26395A78E303A.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/TriggerBox/SchoolGate_box.uasset'
+[2020.09.07-06.36.08:047][167]AssetCheck: New page: 资产保存：SchoolGate_box
+[2020.09.07-06.36.08:047][167]LogContentValidation: Display: 正在验证Blueprint /Game/Developers/fdy/TriggerBox/SchoolGate_box.SchoolGate_box
+[2020.09.07-06.36.13:627][687]BlueprintLog: New page: 编译SchoolGate_box
+[2020.09.07-06.36.13:711][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.09.07-06.36.13:801][687]LogSlate: Took 0.010090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.09.07-06.36.16:799][990]LogTemp: Repeating last play command: 选中的视口
+[2020.09.07-06.36.16:875][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-06.36.16:923][990]PIE: New page: PIE会话：level_00（2020年9月7日 下午10:36:16）
+[2020.09.07-06.36.16:999][990]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.09.07-06.36.17:003][990]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.09.07-06.36.17:018][990]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_00
+[2020.09.07-06.36.17:047][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028827s)
+[2020.09.07-06.36.17:056][990]LogAIModule: Creating AISystem for world level_00
+[2020.09.07-06.36.17:056][990]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028590483600), frame # 54990
+[2020.09.07-06.36.17:056][990]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000285B7A5FC40), frame # 54990
+[2020.09.07-06.36.17:056][990]LogPlayLevel: PIE: World Init took: (0.009375s)
+[2020.09.07-06.36.17:066][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_00.level_00 to /Game/Developers/fdy/Maps/UEDPIE_0_level_00.level_00 (0.038399s)
+[2020.09.07-06.36.17:092][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.09.07-06.36.17:095][990]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-06.36.17:095][990]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-06.36.17:095][990]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-06.36.17:095][990]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-06.36.17:095][990]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-06.36.17:095][990]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-06.36.17:095][990]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-06.36.17:095][990]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-06.36.17:095][990]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-06.36.17:095][990]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-06.36.17:101][990]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-06.36.17:101][990]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-06.36.17:134][990]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.07-06.36.17:134][990]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-06.36.17:134][990]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-06.36.17:134][990]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-06.36.17:134][990]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-06.36.17:147][990]LogInit: FAudioDevice initialized.
+[2020.09.07-06.36.17:189][990]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.07-06.36.17:276][990]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 0) at 2020.09.07-14.36.17
+[2020.09.07-06.36.17:343][990]LogWorld: Bringing up level for play took: 0.072215
+[2020.09.07-06.36.17:344][990]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.09.07-06.36.17:410][990]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.09.07-06.36.17:503][990]PIE: 登陆的服务器
+[2020.09.07-06.36.17:507][990]PIE: PIE总开始时间：0.688秒。
+[2020.09.07-06.36.20:169][260]LogScript: Warning: “无访问”正在尝试读取属性 Instigator
+	SchoolGate_box_C /Game/Developers/fdy/Maps/UEDPIE_0_level_00.level_00:PersistentLevel.SchoolGate_box_2
+	Function /Game/Developers/fdy/TriggerBox/SchoolGate_box.SchoolGate_box_C:ExecuteUbergraph_SchoolGate_box:0047
+[2020.09.07-06.36.20:181][260]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 Instigator"。 蓝图： SchoolGate_box 函数： Execute Ubergraph School Gate Box 图表： EventGraph 节点： 添加移动输入
+[2020.09.07-06.36.21:635][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-06.36.21:635][427]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_00
+[2020.09.07-06.36.21:640][427]LogWorld: UWorld::CleanupWorld for level_00, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-06.36.21:640][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-06.36.21:658][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-06.36.21:662][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-06.36.21:726][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-06.36.21:728][427]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000285B7A5FC40), frame # 55427
+[2020.09.07-06.36.21:728][427]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028590483600), frame # 55427
+[2020.09.07-06.36.21:745][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.09.07-06.36.21:901][428]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.09.07-06.43.40:920][ 98]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.07-06.43.40:953][ 98]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (中文 - QQ拼音输入法).
+[2020.09.07-06.46.05:497][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.09.07-06.46.05:517][696]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/level_00_Auto2C2BCA4724933986FE339DC92E6CCD66D.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Saved/Autosaves/Game/Developers/fdy/Maps/level_00_Auto2.umap'
+[2020.09.07-06.46.05:535][696]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/fdy/Maps/level_00' took 0.076
+[2020.09.07-06.46.05:535][696]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.076
+[2020.09.07-06.46.05:535][696]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/fdy/TriggerBox/SchoolGate_box] ([1] browsable assets)...
+[2020.09.07-06.46.05:535][696]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/fdy/TriggerBox/SchoolGate_box]
+[2020.09.07-06.46.05:556][696]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/SchoolGate_box_Auto246155CB94E07201CF31E9AA1AF2141BE.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Saved/Autosaves/Game/Developers/fdy/TriggerBox/SchoolGate_box_Auto2.uasset'
+[2020.09.07-06.46.05:556][696]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Developers/fdy/Source/Plane] ([1] browsable assets)...
+[2020.09.07-06.46.05:631][696]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Developers/fdy/Source/Plane.Plane]
+[2020.09.07-06.46.05:631][696]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/fdy/Source/Plane]
+[2020.09.07-06.46.05:631][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Source/Plane" FILE="F:/work/Minigame/My2Dgame/minigame2d/Saved/Autosaves/Game/Developers/fdy/Source/Plane_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.09.07-06.46.05:654][696]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/Plane_Auto22FB348CC450067114C5BF8B3B22FD764.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Saved/Autosaves/Game/Developers/fdy/Source/Plane_Auto2.uasset'
+[2020.09.07-06.46.05:655][696]LogFileHelpers: Auto-saving content packages took 0.120
+[2020.09.07-06.48.15:699][442]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.48.23:404][341]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.48.24:338][432]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.48.25:910][612]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.48.26:823][717]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.48.31:248][238]LogEditorViewport: Clicking Background
+[2020.09.07-06.48.31:815][305]LogEditorViewport: Clicking Background
+[2020.09.07-06.49.17:328][552]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.49.18:580][698]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2020.09.07-06.49.20:845][953]LogTemp: Repeating last play command: 选中的视口
+[2020.09.07-06.49.20:855][953]BlueprintLog: New page: 运行前自动重新编译
+[2020.09.07-06.49.20:856][953]LogPlayLevel: [PlayLevel] Compiling SchoolGate_box before play...
+[2020.09.07-06.49.20:914][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.09.07-06.49.20:918][953]LogPlayLevel: PlayLevel: Blueprint regeneration took 62 ms (1 blueprints)
+[2020.09.07-06.49.20:918][953]PIE: New page: PIE会话：level_00（2020年9月7日 下午10:49:20）
+[2020.09.07-06.49.20:948][953]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_00
+[2020.09.07-06.49.20:952][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003940s)
+[2020.09.07-06.49.20:955][953]LogAIModule: Creating AISystem for world level_00
+[2020.09.07-06.49.20:955][953]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028533C70A00), frame # 83953
+[2020.09.07-06.49.20:956][953]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000285436D4680), frame # 83953
+[2020.09.07-06.49.20:956][953]LogPlayLevel: PIE: World Init took: (0.003696s)
+[2020.09.07-06.49.20:956][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_00.level_00 to /Game/Developers/fdy/Maps/UEDPIE_0_level_00.level_00 (0.007814s)
+[2020.09.07-06.49.20:984][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.09.07-06.49.20:985][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-06.49.20:985][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-06.49.20:985][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-06.49.20:985][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-06.49.20:985][953]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-06.49.20:985][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-06.49.20:985][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-06.49.20:985][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-06.49.20:985][953]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-06.49.20:985][953]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-06.49.20:991][953]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-06.49.20:991][953]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-06.49.21:024][953]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.07-06.49.21:024][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-06.49.21:024][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-06.49.21:024][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-06.49.21:025][953]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-06.49.21:037][953]LogInit: FAudioDevice initialized.
+[2020.09.07-06.49.21:043][953]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.07-06.49.21:044][953]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 0) at 2020.09.07-14.49.21
+[2020.09.07-06.49.21:045][953]LogWorld: Bringing up level for play took: 0.001070
+[2020.09.07-06.49.21:045][953]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.09.07-06.49.21:047][953]PIE: 登陆的服务器
+[2020.09.07-06.49.21:049][953]PIE: PIE总开始时间：0.194秒。
+[2020.09.07-06.49.25:490][479]LogBlueprintUserMessages: [Bridge_box_2] Press E to save yourself
+[2020.09.07-06.49.30:469][ 70]LogBlueprintUserMessages: [Bridge_box_2] Press E to save yourself
+[2020.09.07-06.49.35:470][668]LogBlueprintUserMessages: [Bridge_box_2] Press E to save yourself
+[2020.09.07-06.49.45:348][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-06.49.45:348][846]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_00
+[2020.09.07-06.49.45:348][846]LogWorld: UWorld::CleanupWorld for level_00, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-06.49.45:349][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-06.49.45:366][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-06.49.45:369][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-06.49.45:396][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-06.49.45:413][846]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000285436D4680), frame # 86846
+[2020.09.07-06.49.45:413][846]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028533C70A00), frame # 86846
+[2020.09.07-06.49.45:415][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.09.07-06.49.45:440][847]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.09.07-06.49.48:243][181]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2020.09.07-06.49.49:302][305]Cmd: DELETE
+[2020.09.07-06.49.49:302][305]Cmd: ACTOR DELETE
+[2020.09.07-06.49.49:324][305]LogEditorActor: Deleted Actor: AtmosphericFog
+[2020.09.07-06.49.49:354][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.09.07-06.49.49:356][305]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.09.07-06.50.46:666][ 68]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.50.47:680][185]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalActor)
+[2020.09.07-06.50.55:475][ 82]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.09.07-06.51.23:315][365]LogEditorViewport: Clicking on Actor (LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2020.09.07-06.51.24:225][470]Cmd: DELETE
+[2020.09.07-06.51.24:226][470]Cmd: ACTOR DELETE
+[2020.09.07-06.51.24:227][470]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2020.09.07-06.51.24:257][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.09.07-06.51.24:261][470]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.09.07-06.51.34:972][698]Cmd: DELETE
+[2020.09.07-06.51.34:972][698]Cmd: ACTOR DELETE
+[2020.09.07-06.51.34:990][698]LogEditorActor: Deleted Actor: BlockingVolume
+[2020.09.07-06.51.35:031][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.09.07-06.51.35:034][698]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2020.09.07-06.51.43:676][717]LogEditorViewport: Clicking Background
+[2020.09.07-06.51.49:343][381]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.51.49:811][421]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.51.50:280][474]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.51.50:702][523]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2020.09.07-06.51.51:059][562]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.51.51:650][629]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2020.09.07-06.51.57:223][288]LogTemp: Repeating last play command: 选中的视口
+[2020.09.07-06.51.57:233][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-06.51.57:233][288]PIE: New page: PIE会话：level_00（2020年9月7日 下午10:51:57）
+[2020.09.07-06.51.57:257][288]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_00
+[2020.09.07-06.51.57:276][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018085s)
+[2020.09.07-06.51.57:276][288]LogAIModule: Creating AISystem for world level_00
+[2020.09.07-06.51.57:276][288]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028584389400), frame # 102288
+[2020.09.07-06.51.57:281][288]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002858A2287C0), frame # 102288
+[2020.09.07-06.51.57:281][288]LogPlayLevel: PIE: World Init took: (0.005160s)
+[2020.09.07-06.51.57:281][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_00.level_00 to /Game/Developers/fdy/Maps/UEDPIE_0_level_00.level_00 (0.023385s)
+[2020.09.07-06.51.57:309][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.09.07-06.51.57:312][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-06.51.57:312][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-06.51.57:312][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-06.51.57:312][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-06.51.57:312][288]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-06.51.57:312][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-06.51.57:312][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-06.51.57:312][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-06.51.57:312][288]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-06.51.57:312][288]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-06.51.57:317][288]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-06.51.57:317][288]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-06.51.57:350][288]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.07-06.51.57:350][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-06.51.57:350][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-06.51.57:350][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-06.51.57:351][288]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-06.51.57:363][288]LogInit: FAudioDevice initialized.
+[2020.09.07-06.51.57:370][288]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.07-06.51.57:372][288]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 0) at 2020.09.07-14.51.57
+[2020.09.07-06.51.57:372][288]LogWorld: Bringing up level for play took: 0.001227
+[2020.09.07-06.51.57:372][288]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.09.07-06.51.57:375][288]PIE: 登陆的服务器
+[2020.09.07-06.51.57:376][288]PIE: PIE总开始时间：0.144秒。
+[2020.09.07-06.52.01:870][821]LogBlueprintUserMessages: [Bridge_box_2] Press Q to save yourself
+[2020.09.07-06.52.06:871][421]LogBlueprintUserMessages: [Bridge_box_2] Press E to save yourself
+[2020.09.07-06.52.11:871][ 21]LogBlueprintUserMessages: [Bridge_box_2] Press Q to save yourself
+[2020.09.07-06.54.06:668][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-06.54.06:668][416]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_00
+[2020.09.07-06.54.06:669][416]LogWorld: UWorld::CleanupWorld for level_00, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-06.54.06:669][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-06.54.06:676][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-06.54.06:680][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-06.54.06:708][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-06.54.06:725][416]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002858A2287C0), frame # 106416
+[2020.09.07-06.54.06:725][416]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028584389400), frame # 106416
+[2020.09.07-06.54.06:728][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.09.07-06.54.06:749][417]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.09.07-06.54.11:285][959]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2020.09.07-06.54.12:332][ 81]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.54.13:176][178]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalActor)
+[2020.09.07-06.54.20:356][ 31]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.54.21:467][160]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.54.22:032][226]LogEditorViewport: Clicking on Actor (LMB): SkyAtmosphere (SkyAtmosphere)
+[2020.09.07-06.54.23:369][383]Cmd: DELETE
+[2020.09.07-06.54.23:369][383]Cmd: ACTOR DELETE
+[2020.09.07-06.54.23:371][383]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2020.09.07-06.54.23:399][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.09.07-06.54.23:402][383]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.09.07-06.54.23:998][454]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2020.09.07-06.54.50:659][530]Cmd: DELETE
+[2020.09.07-06.54.50:659][530]Cmd: ACTOR DELETE
+[2020.09.07-06.54.50:660][530]LogEditorActor: Deleted Actor: SkyLight
+[2020.09.07-06.54.50:687][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.09.07-06.54.50:690][530]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.09.07-06.54.53:366][841]LogTemp: Repeating last play command: 选中的视口
+[2020.09.07-06.54.53:377][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-06.54.53:377][841]PIE: New page: PIE会话：level_00（2020年9月7日 下午10:54:53）
+[2020.09.07-06.54.53:407][841]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_00
+[2020.09.07-06.54.53:410][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003208s)
+[2020.09.07-06.54.53:411][841]LogAIModule: Creating AISystem for world level_00
+[2020.09.07-06.54.53:411][841]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000285841EA200), frame # 111841
+[2020.09.07-06.54.53:411][841]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002855D255300), frame # 111841
+[2020.09.07-06.54.53:411][841]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2020.09.07-06.54.53:411][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_00.level_00 to /Game/Developers/fdy/Maps/UEDPIE_0_level_00.level_00 (0.004371s)
+[2020.09.07-06.54.53:439][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.09.07-06.54.53:441][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-06.54.53:441][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-06.54.53:441][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-06.54.53:441][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-06.54.53:441][841]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-06.54.53:441][841]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-06.54.53:441][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-06.54.53:441][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-06.54.53:442][841]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-06.54.53:442][841]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-06.54.53:448][841]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-06.54.53:448][841]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-06.54.53:485][841]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.07-06.54.53:485][841]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-06.54.53:485][841]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-06.54.53:485][841]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-06.54.53:485][841]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-06.54.53:498][841]LogInit: FAudioDevice initialized.
+[2020.09.07-06.54.53:506][841]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.07-06.54.53:507][841]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 0) at 2020.09.07-14.54.53
+[2020.09.07-06.54.53:508][841]LogWorld: Bringing up level for play took: 0.001233
+[2020.09.07-06.54.53:508][841]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.09.07-06.54.53:510][841]PIE: 登陆的服务器
+[2020.09.07-06.54.53:511][841]PIE: PIE总开始时间：0.135秒。
+[2020.09.07-06.54.58:108][391]LogBlueprintUserMessages: [Bridge_box_2] Press E to save yourself
+[2020.09.07-06.55.03:117][991]LogBlueprintUserMessages: [Bridge_box_2] Press Q to save yourself
+[2020.09.07-06.55.08:108][590]LogBlueprintUserMessages: [Bridge_box_2] you lose
+[2020.09.07-06.55.30:878][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-06.55.30:878][315]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_00
+[2020.09.07-06.55.30:879][315]LogWorld: UWorld::CleanupWorld for level_00, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-06.55.30:879][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-06.55.30:888][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-06.55.30:892][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-06.55.30:917][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-06.55.30:935][315]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002855D255300), frame # 116315
+[2020.09.07-06.55.30:935][315]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000285841EA200), frame # 116315
+[2020.09.07-06.55.30:937][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.09.07-06.55.30:965][316]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.09.07-06.55.32:677][519]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalActor)
+[2020.09.07-06.55.35:939][906]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.55.36:601][981]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.55.36:991][ 26]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.55.37:581][ 95]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.55.38:228][171]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.55.38:608][215]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalActor)
+[2020.09.07-06.55.48:275][353]Cmd: DELETE
+[2020.09.07-06.55.48:275][353]Cmd: ACTOR DELETE
+[2020.09.07-06.55.48:276][353]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2020.09.07-06.55.48:305][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.09.07-06.55.48:308][353]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.09.07-06.55.48:913][425]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalActor)
+[2020.09.07-06.55.55:567][194]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.07-06.55.55:567][194]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.07-06.55.56:725][332]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.55.57:227][388]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.55.57:593][430]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.56.00:327][752]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalActor)
+[2020.09.07-06.56.01:573][898]Cmd: DELETE
+[2020.09.07-06.56.01:573][898]Cmd: ACTOR DELETE
+[2020.09.07-06.56.01:574][898]LogEditorActor: Deleted Actor: DecalActor
+[2020.09.07-06.56.01:602][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.09.07-06.56.01:605][898]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.09.07-06.56.02:165][965]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2020.09.07-06.56.02:520][  4]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.56.03:125][ 73]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.56.03:694][140]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.56.04:572][243]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.56.05:068][300]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.56.05:455][345]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.56.05:800][385]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.56.06:230][435]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2020.09.07-06.56.06:596][475]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.56.07:318][558]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.56.07:731][606]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.56.08:069][645]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2020.09.07-06.56.08:394][680]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.09.07-06.56.09:086][757]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2020.09.07-06.56.09:639][820]Cmd: DELETE
+[2020.09.07-06.56.09:639][820]Cmd: ACTOR DELETE
+[2020.09.07-06.56.09:640][820]LogEditorActor: Deleted Actor: BlockingVolume
+[2020.09.07-06.56.09:668][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.09.07-06.56.09:670][820]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.09.07-06.56.38:786][294]Cmd: DELETE
+[2020.09.07-06.56.38:786][294]Cmd: ACTOR DELETE
+[2020.09.07-06.56.38:787][294]LogEditorActor: Deleted Actor: Bridge_box_C
+[2020.09.07-06.56.38:816][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.09.07-06.56.38:819][294]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.09.07-06.59.17:563][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.09.07-06.59.17:597][573]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/level_00_Auto33A1C673A477A689B534151BF424EC832.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Saved/Autosaves/Game/Developers/fdy/Maps/level_00_Auto3.umap'
+[2020.09.07-06.59.17:598][573]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/fdy/Maps/level_00' took 0.065
+[2020.09.07-06.59.17:598][573]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.065
+[2020.09.07-06.59.17:598][573]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/fdy/TriggerBox/SchoolGate_box] ([1] browsable assets)...
+[2020.09.07-06.59.17:598][573]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/fdy/TriggerBox/SchoolGate_box]
+[2020.09.07-06.59.17:608][573]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/SchoolGate_box_Auto3581AC7C247333B774B628094FDF77109.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Saved/Autosaves/Game/Developers/fdy/TriggerBox/SchoolGate_box_Auto3.uasset'
+[2020.09.07-06.59.17:608][573]LogFileHelpers: Auto-saving content packages took 0.010
+[2020.09.07-06.59.36:898][769]LogSlate: Window '消息日志' being destroyed
+[2020.09.07-06.59.36:903][769]LogSlate: Window '消息日志' being destroyed
+[2020.09.07-06.59.48:348][127]LogActorFactory: Actor Factory created Cube
+[2020.09.07-06.59.50:870][425]LogStaticMesh: 正在构建静态网格体Cube……
+[2020.09.07-06.59.50:887][425]LogStaticMesh: Built static mesh [0.02s] /Game/Developers/fdy/Source/Cube.Cube
+[2020.09.07-06.59.56:600][ 60]LogActorFactory: Actor Factory created Plane
+[2020.09.07-07.00.00:520][469]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Developers/fdy/Source/Plane_2.Plane_2
+[2020.09.07-07.00.01:438][469]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-07.00.01:438][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-07.00.01:958][470]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.09.07-07.00.23:914][ 67]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-07.00.23:914][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-07.00.28:282][482]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Developers/fdy/Source/Plane.Plane
+[2020.09.07-07.00.28:467][482]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-07.00.28:467][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-07.00.31:700][781]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-07.00.31:700][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-07.00.37:649][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.09.07-07.00.38:964][317]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.07-07.00.39:050][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.09.07-07.00.40:280][446]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Developers/fdy/Source/Cube.Cube
+[2020.09.07-07.00.40:429][446]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-07.00.40:429][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-07.00.44:959][859]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-07.00.44:959][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-07.00.57:072][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Source/gatecube" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/gatecube.uasset" SILENT=true
+[2020.09.07-07.00.57:080][231]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/gatecube6B35A95A462295C1CD659083EBCFF088.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/gatecube.uasset'
+[2020.09.07-07.00.57:278][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.09.07-07.00.57:318][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.09.07-07.00.57:344][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.09.07-07.00.57:376][231]AssetCheck: New page: 资产保存：gatecube
+[2020.09.07-07.00.57:376][231]LogContentValidation: Display: 正在验证StaticMesh /Game/Developers/fdy/Source/gatecube.gatecube
+[2020.09.07-07.01.04:921][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Source/gateplane" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/gateplane.uasset" SILENT=true
+[2020.09.07-07.01.04:928][ 57]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/gateplane91E74D71484A0701B2D21DA5B497A8DF.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/gateplane.uasset'
+[2020.09.07-07.01.05:105][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.09.07-07.01.05:142][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.09.07-07.01.05:169][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.09.07-07.01.05:196][ 57]AssetCheck: New page: 资产保存：gateplane
+[2020.09.07-07.01.05:196][ 57]LogContentValidation: Display: 正在验证StaticMesh /Game/Developers/fdy/Source/gateplane.gateplane
+[2020.09.07-07.01.26:059][216]BlueprintLog: New page: 编译SchoolGate_box
+[2020.09.07-07.01.26:108][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.09.07-07.01.28:245][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/TriggerBox/SchoolGate_box" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/TriggerBox/SchoolGate_box.uasset" SILENT=true
+[2020.09.07-07.01.28:284][438]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/SchoolGate_box755D22E84B3FA928040A31B68A33A5DD.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/TriggerBox/SchoolGate_box.uasset'
+[2020.09.07-07.01.28:297][438]AssetCheck: New page: 资产保存：SchoolGate_box
+[2020.09.07-07.01.28:297][438]LogContentValidation: Display: 正在验证Blueprint /Game/Developers/fdy/TriggerBox/SchoolGate_box.SchoolGate_box
+[2020.09.07-07.02.21:373][160]LogTemp: Repeating last play command: 选中的视口
+[2020.09.07-07.02.21:383][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-07.02.21:383][160]PIE: New page: PIE会话：level_00（2020年9月7日 下午11:02:21）
+[2020.09.07-07.02.21:408][160]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_00
+[2020.09.07-07.02.21:411][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002955s)
+[2020.09.07-07.02.21:412][160]LogAIModule: Creating AISystem for world level_00
+[2020.09.07-07.02.21:412][160]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000285937A0E00), frame # 139160
+[2020.09.07-07.02.21:412][160]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028545652E80), frame # 139160
+[2020.09.07-07.02.21:412][160]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2020.09.07-07.02.21:412][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_00.level_00 to /Game/Developers/fdy/Maps/UEDPIE_0_level_00.level_00 (0.004096s)
+[2020.09.07-07.02.21:441][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.09.07-07.02.21:444][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-07.02.21:444][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-07.02.21:444][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-07.02.21:444][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-07.02.21:444][160]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-07.02.21:444][160]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-07.02.21:444][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-07.02.21:444][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-07.02.21:445][160]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-07.02.21:445][160]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-07.02.21:450][160]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-07.02.21:450][160]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-07.02.21:483][160]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.07-07.02.21:483][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-07.02.21:483][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-07.02.21:483][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-07.02.21:484][160]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-07.02.21:497][160]LogInit: FAudioDevice initialized.
+[2020.09.07-07.02.21:507][160]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.07-07.02.21:508][160]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 0) at 2020.09.07-15.02.21
+[2020.09.07-07.02.21:508][160]LogWorld: Bringing up level for play took: 0.001079
+[2020.09.07-07.02.21:509][160]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.09.07-07.02.21:511][160]PIE: 登陆的服务器
+[2020.09.07-07.02.21:512][160]PIE: PIE总开始时间：0.13秒。
+[2020.09.07-07.02.36:598][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-07.02.36:598][960]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_00
+[2020.09.07-07.02.36:599][960]LogWorld: UWorld::CleanupWorld for level_00, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-07.02.36:599][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-07.02.36:608][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-07.02.36:612][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-07.02.36:655][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-07.02.36:656][960]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028545652E80), frame # 140960
+[2020.09.07-07.02.36:656][960]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000285937A0E00), frame # 140960
+[2020.09.07-07.02.36:658][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.09.07-07.02.36:683][961]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.09.07-07.03.21:850][683]LogHttp: Warning: 00000285E35C4F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B83949AA5-4370-773C-6016-61B73099A9E0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=0a7465674659920a8c7c4f846aa0c5dd%7C008155afdb0344378b2bf30ad5b1af7c%7C2f97ace2-e986-4a4c-b319-8c9a03e11781&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.09.07-07.03.21:850][683]LogHttp: Warning: 00000285E35C4F00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.09.07-07.03.21:850][683]LogHttp: Warning: 00000285E35C4F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x28500c9ff70 [can pipeline])
+[2020.09.07-07.03.21:850][683]LogHttp: Warning: 00000285E35C4F00: libcurl info message cache 1 (Re-using existing connection! (#12) with host datarouter.ol.epicgames.com)
+[2020.09.07-07.03.21:850][683]LogHttp: Warning: 00000285E35C4F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.2.38.227) port 443 (#12))
+[2020.09.07-07.03.21:850][683]LogHttp: Warning: 00000285E35C4F00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.09.07-07.03.21:850][683]LogHttp: Warning: 00000285E35C4F00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.09.07-07.03.21:850][683]LogHttp: Warning: 00000285E35C4F00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.09.07-07.03.21:850][683]LogHttp: Warning: 00000285E35C4F00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.09.07-07.03.21:850][683]LogHttp: Warning: 00000285E35C4F00: libcurl info message cache 7 (Closing connection 12)
+[2020.09.07-07.03.22:189][684]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B83949AA5-4370-773C-6016-61B73099A9E0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=0a7465674659920a8c7c4f846aa0c5dd%7C008155afdb0344378b2bf30ad5b1af7c%7C2f97ace2-e986-4a4c-b319-8c9a03e11781&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.09.07-07.04.12:706][404]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/微信图片_20200907150314.png)
+[2020.09.07-07.04.12:780][404]LogTexture: Display: 正在编译纹理：微信图片_20200907150314（AutoDXT、1024X1024）
+[2020.09.07-07.05.31:113][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Maps/level_00" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.07-07.05.31:147][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.09.07-07.05.31:196][183]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/level_00E22581F04608CC97067E90921464779D.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_00.umap'
+[2020.09.07-07.05.31:215][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Maps/level_00_BuiltData" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_00_BuiltData.uasset" SILENT=true
+[2020.09.07-07.05.31:218][183]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/level_00_BuiltData9A935DD447CE293D56A463A8E457538D.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_00_BuiltData.uasset'
+[2020.09.07-07.05.31:235][183]AssetCheck: New page: 资产保存：多个资产
+[2020.09.07-07.05.31:236][183]LogContentValidation: Display: 正在验证World /Game/Developers/fdy/Maps/level_00.level_00
+[2020.09.07-07.05.31:236][183]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/Developers/fdy/Maps/level_00_BuiltData.level_00_BuiltData
+[2020.09.07-07.05.44:152][494]LogSlate: Window '消息' being destroyed
+[2020.09.07-07.05.44:159][494]Message dialog closed, result: Yes, title: 消息, text: 是否继续验证以下文件夹？
+
+/Game/Developers/fdy/Source/游戏素材
+[2020.09.07-07.05.44:164][494]AssetCheck: 数据验证成功。
+[2020.09.07-07.05.44:164][494]AssetCheck: 已检查文件：0个；通过：0个；未通过：0个；略过：0个；无法验证：0个
+[2020.09.07-07.05.47:240][857]LogSlate: Window '消息日志' being destroyed
+[2020.09.07-07.05.47:245][857]LogSlate: Window '消息日志' being destroyed
+[2020.09.07-07.06.00:079][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/2D RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com (1).png)
+[2020.09.07-07.06.00:081][286]LogTexture: Display: 正在编译纹理：2D_RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com__1_（AutoDXT、256X256）
+[2020.09.07-07.06.00:098][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/2D RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com.png)
+[2020.09.07-07.06.00:100][286]LogTexture: Display: 正在编译纹理：2D_RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com（AutoDXT、128X192）
+[2020.09.07-07.06.00:122][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/2D RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com.png)
+[2020.09.07-07.06.00:124][286]LogTexture: Display: 正在编译纹理：2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com（AutoDXT、128X192）
+[2020.09.07-07.06.00:147][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/2D RPG丧尸素材-自制丧尸素材-男学生爆头 (2)_爱给网_aigei_com.png)
+[2020.09.07-07.06.00:149][286]LogTexture: Display: 正在编译纹理：2D_RPG丧尸素材-自制丧尸素材-男学生爆头__2__爱给网_aigei_com（AutoDXT、256X256）
+[2020.09.07-07.06.00:168][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/Q版学生4方向行走图-01B(01b)_爱给网_aigei_com.png)
+[2020.09.07-07.06.00:169][286]LogTexture: Display: 正在编译纹理：Q版学生4方向行走图-01B_01b__爱给网_aigei_com（AutoDXT、128X192）
+[2020.09.07-07.06.00:193][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/Q版学生4方向行走图-04B(04b)_爱给网_aigei_com.png)
+[2020.09.07-07.06.00:195][286]LogTexture: Display: 正在编译纹理：Q版学生4方向行走图-04B_04b__爱给网_aigei_com（AutoDXT、128X192）
+[2020.09.07-07.06.00:219][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/Q版学生4方向行走图-09_爱给网_aigei_com.png)
+[2020.09.07-07.06.00:220][286]LogTexture: Display: 正在编译纹理：Q版学生4方向行走图-09_爱给网_aigei_com（AutoDXT、128X192）
+[2020.09.07-07.06.11:245][772]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/RO战斗图-僵尸垂直(vert)_爱给网_aigei_com.png)
+[2020.09.07-07.06.11:246][772]LogTexture: Display: 正在编译纹理：RO战斗图-僵尸垂直_vert__爱给网_aigei_com（BGRA8、56X89）
+[2020.09.07-07.06.11:250][772]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/RPGMAKER怪物素材-僵尸(Zombie)_爱给网_aigei_com.png)
+[2020.09.07-07.06.11:252][772]LogTexture: Display: 正在编译纹理：RPGMAKER怪物素材-僵尸_Zombie__爱给网_aigei_com（BGRA8、78X160）
+[2020.09.07-07.06.23:227][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像132.png)
+[2020.09.07-07.06.23:229][ 38]LogTexture: Display: 正在编译纹理：图像132（BGRA8、44X101）
+[2020.09.07-07.06.23:232][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像134.png)
+[2020.09.07-07.06.23:233][ 38]LogTexture: Display: 正在编译纹理：图像134（BGRA8、44X101）
+[2020.09.07-07.06.23:236][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像136.png)
+[2020.09.07-07.06.23:238][ 38]LogTexture: Display: 正在编译纹理：图像136（BGRA8、44X101）
+[2020.09.07-07.06.23:241][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像138.png)
+[2020.09.07-07.06.23:242][ 38]LogTexture: Display: 正在编译纹理：图像138（BGRA8、46X97）
+[2020.09.07-07.06.23:245][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像140.png)
+[2020.09.07-07.06.23:246][ 38]LogTexture: Display: 正在编译纹理：图像140（BGRA8、54X93）
+[2020.09.07-07.06.23:249][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像142.png)
+[2020.09.07-07.06.23:250][ 38]LogTexture: Display: 正在编译纹理：图像142（BGRA8、61X87）
+[2020.09.07-07.06.23:255][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像144.png)
+[2020.09.07-07.06.23:256][ 38]LogTexture: Display: 正在编译纹理：图像144（BGRA8、61X87）
+[2020.09.07-07.06.23:259][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像146.png)
+[2020.09.07-07.06.23:260][ 38]LogTexture: Display: 正在编译纹理：图像146（BGRA8、62X111）
+[2020.09.07-07.06.23:264][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像148.png)
+[2020.09.07-07.06.23:265][ 38]LogTexture: Display: 正在编译纹理：图像148（BGRA8、53X114）
+[2020.09.07-07.06.23:268][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像150.png)
+[2020.09.07-07.06.23:270][ 38]LogTexture: Display: 正在编译纹理：图像150（BGRA8、78X93）
+[2020.09.07-07.06.23:273][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像152.png)
+[2020.09.07-07.06.23:274][ 38]LogTexture: Display: 正在编译纹理：图像152（BGRA8、75X88）
+[2020.09.07-07.06.23:277][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像154.png)
+[2020.09.07-07.06.23:278][ 38]LogTexture: Display: 正在编译纹理：图像154（BGRA8、73X92）
+[2020.09.07-07.06.23:282][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像156.png)
+[2020.09.07-07.06.23:283][ 38]LogTexture: Display: 正在编译纹理：图像156（BGRA8、78X93）
+[2020.09.07-07.06.23:286][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像158.png)
+[2020.09.07-07.06.23:288][ 38]LogTexture: Display: 正在编译纹理：图像158（BGRA8、63X75）
+[2020.09.07-07.06.23:291][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像160.png)
+[2020.09.07-07.06.23:292][ 38]LogTexture: Display: 正在编译纹理：图像160（BGRA8、57X75）
+[2020.09.07-07.06.23:295][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像162.png)
+[2020.09.07-07.06.23:296][ 38]LogTexture: Display: 正在编译纹理：图像162（BGRA8、42X102）
+[2020.09.07-07.06.23:299][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像164.png)
+[2020.09.07-07.06.23:300][ 38]LogTexture: Display: 正在编译纹理：图像164（BGRA8、65X63）
+[2020.09.07-07.06.23:304][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像167.png)
+[2020.09.07-07.06.23:305][ 38]LogTexture: Display: 正在编译纹理：图像167（BGRA8、107X46）
+[2020.09.07-07.06.23:309][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像169.png)
+[2020.09.07-07.06.23:310][ 38]LogTexture: Display: 正在编译纹理：图像169（BGRA8、112X41）
+[2020.09.07-07.06.23:313][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像171.png)
+[2020.09.07-07.06.23:314][ 38]LogTexture: Display: 正在编译纹理：图像171（BGRA8、63X65）
+[2020.09.07-07.06.25:213][232]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Developers/fdy/Source/怪物/RPGMAKER怪物素材-僵尸_Zombie__爱给网_aigei_com.RPGMAKER怪物素材-僵尸_Zombie__爱给网_aigei_com
+[2020.09.07-07.06.25:255][232]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.09.07-07.06.42:159][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/复古风2D MMORPG网络游戏源码-办公桌1.111(de_爱给网_aigei_com.png)
+[2020.09.07-07.06.42:160][117]LogTexture: Display: 正在编译纹理：复古风2D_MMORPG网络游戏源码-办公桌1_111_de_爱给网_aigei_com（BGRA8、46X45）
+[2020.09.07-07.06.42:182][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/精神病院恐怖生存解谜题材游戏素材-84号囚犯-s30b 烤(_爱给网_aigei_com.png)
+[2020.09.07-07.06.42:214][117]LogTexture: Display: 正在编译纹理：精神病院恐怖生存解谜题材游戏素材-84号囚犯-s30b_烤__爱给网_aigei_com（AutoDXT、1024X1024）
+[2020.09.07-07.06.42:643][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/精神病院恐怖生存解谜题材游戏素材-84号囚犯-烤(baked_爱给网_aigei_com.png)
+[2020.09.07-07.06.42:674][117]LogTexture: Display: 正在编译纹理：精神病院恐怖生存解谜题材游戏素材-84号囚犯-烤_baked_爱给网_aigei_com（AutoDXT、1024X1024）
+[2020.09.07-07.06.43:060][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-18_爱给网_aigei_com.png)
+[2020.09.07-07.06.43:064][117]LogTexture: Display: 正在编译纹理：日式风格恐怖类rpg游戏素材-异常感染-18_爱给网_aigei_com（AutoDXT、480X480）
+[2020.09.07-07.06.43:177][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-45_爱给网_aigei_com.png)
+[2020.09.07-07.06.43:178][117]LogTexture: Display: 正在编译纹理：日式风格恐怖类rpg游戏素材-异常感染-45_爱给网_aigei_com（AutoDXT、256X256）
+[2020.09.07-07.06.43:218][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-47_爱给网_aigei_com.png)
+[2020.09.07-07.06.43:220][117]LogTexture: Display: 正在编译纹理：日式风格恐怖类rpg游戏素材-异常感染-47_爱给网_aigei_com（AutoDXT、256X256）
+[2020.09.07-07.06.43:261][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-52_爱给网_aigei_com.png)
+[2020.09.07-07.06.43:263][117]LogTexture: Display: 正在编译纹理：日式风格恐怖类rpg游戏素材-异常感染-52_爱给网_aigei_com（AutoDXT、256X256）
+[2020.09.07-07.06.43:299][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-71_爱给网_aigei_com.png)
+[2020.09.07-07.06.43:301][117]LogTexture: Display: 正在编译纹理：日式风格恐怖类rpg游戏素材-异常感染-71_爱给网_aigei_com（AutoDXT、256X256）
+[2020.09.07-07.06.43:338][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-73_爱给网_aigei_com.png)
+[2020.09.07-07.06.43:340][117]LogTexture: Display: 正在编译纹理：日式风格恐怖类rpg游戏素材-异常感染-73_爱给网_aigei_com（AutoDXT、256X256）
+[2020.09.07-07.06.43:377][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-74_爱给网_aigei_com.png)
+[2020.09.07-07.06.43:379][117]LogTexture: Display: 正在编译纹理：日式风格恐怖类rpg游戏素材-异常感染-74_爱给网_aigei_com（AutoDXT、256X256）
+[2020.09.07-07.06.46:864][504]AssetReimport: New page: 出色的源内容修改下午11:06:46
+[2020.09.07-07.06.46:902][504]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/RPGMAKER怪物素材-僵尸(Zombie)_爱给网_aigei_com.png]
+[2020.09.07-07.06.46:902][504]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/RPGMAKER怪物素材-僵尸(Zombie)_爱给网_aigei_com.png)
+[2020.09.07-07.06.46:910][504]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.46:974][505]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/微信图片_20200907150314.png]
+[2020.09.07-07.06.46:974][505]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/微信图片_20200907150314.png)
+[2020.09.07-07.06.47:184][505]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.47:225][506]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/RO战斗图-僵尸垂直(vert)_爱给网_aigei_com.png]
+[2020.09.07-07.06.47:225][506]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/RO战斗图-僵尸垂直(vert)_爱给网_aigei_com.png)
+[2020.09.07-07.06.47:235][506]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.47:237][506]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/Q版学生4方向行走图-01B(01b)_爱给网_aigei_com.png]
+[2020.09.07-07.06.47:237][506]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/Q版学生4方向行走图-01B(01b)_爱给网_aigei_com.png)
+[2020.09.07-07.06.47:260][506]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.47:290][507]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/2D RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com (1).png]
+[2020.09.07-07.06.47:290][507]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/2D RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com (1).png)
+[2020.09.07-07.06.47:316][507]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.47:356][508]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/Q版学生4方向行走图-09_爱给网_aigei_com.png]
+[2020.09.07-07.06.47:356][508]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/Q版学生4方向行走图-09_爱给网_aigei_com.png)
+[2020.09.07-07.06.47:379][508]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.47:422][509]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/2D RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com.png]
+[2020.09.07-07.06.47:422][509]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/2D RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com.png)
+[2020.09.07-07.06.47:444][509]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.47:453][510]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/Q版学生4方向行走图-04B(04b)_爱给网_aigei_com.png]
+[2020.09.07-07.06.47:453][510]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/Q版学生4方向行走图-04B(04b)_爱给网_aigei_com.png)
+[2020.09.07-07.06.47:477][510]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.47:484][511]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/2D RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com.png]
+[2020.09.07-07.06.47:484][511]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/2D RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com.png)
+[2020.09.07-07.06.47:506][511]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.47:513][512]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/2D RPG丧尸素材-自制丧尸素材-男学生爆头 (2)_爱给网_aigei_com.png]
+[2020.09.07-07.06.47:513][512]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/2D RPG丧尸素材-自制丧尸素材-男学生爆头 (2)_爱给网_aigei_com.png)
+[2020.09.07-07.06.47:533][512]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.47:540][513]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-47_爱给网_aigei_com.png]
+[2020.09.07-07.06.47:541][513]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-47_爱给网_aigei_com.png)
+[2020.09.07-07.06.47:576][513]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.47:584][514]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-73_爱给网_aigei_com.png]
+[2020.09.07-07.06.47:584][514]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-73_爱给网_aigei_com.png)
+[2020.09.07-07.06.47:620][514]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.47:628][515]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-74_爱给网_aigei_com.png]
+[2020.09.07-07.06.47:629][515]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-74_爱给网_aigei_com.png)
+[2020.09.07-07.06.47:667][515]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.47:675][516]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/精神病院恐怖生存解谜题材游戏素材-84号囚犯-s30b 烤(_爱给网_aigei_com.png]
+[2020.09.07-07.06.47:677][516]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/精神病院恐怖生存解谜题材游戏素材-84号囚犯-s30b 烤(_爱给网_aigei_com.png)
+[2020.09.07-07.06.48:129][516]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.48:140][517]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-45_爱给网_aigei_com.png]
+[2020.09.07-07.06.48:140][517]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-45_爱给网_aigei_com.png)
+[2020.09.07-07.06.48:176][517]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.48:184][518]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/复古风2D MMORPG网络游戏源码-办公桌1.111(de_爱给网_aigei_com.png]
+[2020.09.07-07.06.48:184][518]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/复古风2D MMORPG网络游戏源码-办公桌1.111(de_爱给网_aigei_com.png)
+[2020.09.07-07.06.48:200][518]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.48:207][519]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-71_爱给网_aigei_com.png]
+[2020.09.07-07.06.48:208][519]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-71_爱给网_aigei_com.png)
+[2020.09.07-07.06.48:245][519]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.48:253][520]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/精神病院恐怖生存解谜题材游戏素材-84号囚犯-烤(baked_爱给网_aigei_com.png]
+[2020.09.07-07.06.48:255][520]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/精神病院恐怖生存解谜题材游戏素材-84号囚犯-烤(baked_爱给网_aigei_com.png)
+[2020.09.07-07.06.48:690][520]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.48:699][521]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-52_爱给网_aigei_com.png]
+[2020.09.07-07.06.48:700][521]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-52_爱给网_aigei_com.png)
+[2020.09.07-07.06.48:737][521]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.48:745][522]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-18_爱给网_aigei_com.png]
+[2020.09.07-07.06.48:745][522]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-18_爱给网_aigei_com.png)
+[2020.09.07-07.06.48:859][522]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.48:866][523]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像152.png]
+[2020.09.07-07.06.48:866][523]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像152.png)
+[2020.09.07-07.06.48:883][523]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.48:892][524]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像146.png]
+[2020.09.07-07.06.48:892][524]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像146.png)
+[2020.09.07-07.06.48:908][524]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.48:917][525]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像150.png]
+[2020.09.07-07.06.48:917][525]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像150.png)
+[2020.09.07-07.06.48:933][525]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.48:941][526]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像144.png]
+[2020.09.07-07.06.48:941][526]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像144.png)
+[2020.09.07-07.06.48:958][526]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.48:968][527]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像169.png]
+[2020.09.07-07.06.48:969][527]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像169.png)
+[2020.09.07-07.06.48:989][527]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.48:996][528]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像140.png]
+[2020.09.07-07.06.48:996][528]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像140.png)
+[2020.09.07-07.06.49:013][528]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.49:021][529]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像154.png]
+[2020.09.07-07.06.49:021][529]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像154.png)
+[2020.09.07-07.06.49:041][529]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.49:048][530]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像142.png]
+[2020.09.07-07.06.49:048][530]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像142.png)
+[2020.09.07-07.06.49:050][530]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.49:051][530]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像156.png]
+[2020.09.07-07.06.49:051][530]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像156.png)
+[2020.09.07-07.06.49:053][530]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.49:054][530]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像132.png]
+[2020.09.07-07.06.49:054][530]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像132.png)
+[2020.09.07-07.06.49:055][530]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.49:056][530]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像136.png]
+[2020.09.07-07.06.49:056][530]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像136.png)
+[2020.09.07-07.06.49:058][530]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.49:059][530]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像134.png]
+[2020.09.07-07.06.49:059][530]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像134.png)
+[2020.09.07-07.06.49:061][530]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.49:061][530]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像138.png]
+[2020.09.07-07.06.49:061][530]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像138.png)
+[2020.09.07-07.06.49:063][530]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.49:064][530]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像167.png]
+[2020.09.07-07.06.49:064][530]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像167.png)
+[2020.09.07-07.06.49:066][530]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.49:073][531]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像171.png]
+[2020.09.07-07.06.49:073][531]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像171.png)
+[2020.09.07-07.06.49:075][531]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.49:076][531]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像164.png]
+[2020.09.07-07.06.49:076][531]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像164.png)
+[2020.09.07-07.06.49:077][531]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.49:078][531]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像158.png]
+[2020.09.07-07.06.49:078][531]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像158.png)
+[2020.09.07-07.06.49:080][531]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.49:081][531]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像160.png]
+[2020.09.07-07.06.49:081][531]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像160.png)
+[2020.09.07-07.06.49:082][531]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.49:083][531]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像148.png]
+[2020.09.07-07.06.49:083][531]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像148.png)
+[2020.09.07-07.06.49:085][531]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.49:086][531]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像162.png]
+[2020.09.07-07.06.49:087][531]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像162.png)
+[2020.09.07-07.06.49:088][531]LogEditorFactories: -- imported successfully
+[2020.09.07-07.06.52:096][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/RPGMAKER怪物素材-僵尸(Zombie)_爱给网_aigei_com.png重新导入资产RPGMAKER怪物素材-僵尸_Zombie__爱给网_aigei_com。
+[2020.09.07-07.06.52:096][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/微信图片_20200907150314.png重新导入资产微信图片_20200907150314。
+[2020.09.07-07.06.52:096][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/RO战斗图-僵尸垂直(vert)_爱给网_aigei_com.png重新导入资产RO战斗图-僵尸垂直_vert__爱给网_aigei_com。
+[2020.09.07-07.06.52:096][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/Q版学生4方向行走图-01B(01b)_爱给网_aigei_com.png重新导入资产Q版学生4方向行走图-01B_01b__爱给网_aigei_com。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/2D RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com (1).png重新导入资产2D_RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com__1_。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/Q版学生4方向行走图-09_爱给网_aigei_com.png重新导入资产Q版学生4方向行走图-09_爱给网_aigei_com。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/2D RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com.png重新导入资产2D_RPG丧尸素材-自制丧尸素材-1_爱给网_aigei_com。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/Q版学生4方向行走图-04B(04b)_爱给网_aigei_com.png重新导入资产Q版学生4方向行走图-04B_04b__爱给网_aigei_com。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/2D RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com.png重新导入资产2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/人物/2D RPG丧尸素材-自制丧尸素材-男学生爆头 (2)_爱给网_aigei_com.png重新导入资产2D_RPG丧尸素材-自制丧尸素材-男学生爆头__2__爱给网_aigei_com。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-47_爱给网_aigei_com.png重新导入资产日式风格恐怖类rpg游戏素材-异常感染-47_爱给网_aigei_com。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-73_爱给网_aigei_com.png重新导入资产日式风格恐怖类rpg游戏素材-异常感染-73_爱给网_aigei_com。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-74_爱给网_aigei_com.png重新导入资产日式风格恐怖类rpg游戏素材-异常感染-74_爱给网_aigei_com。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/精神病院恐怖生存解谜题材游戏素材-84号囚犯-s30b 烤(_爱给网_aigei_com.png重新导入资产精神病院恐怖生存解谜题材游戏素材-84号囚犯-s30b_烤__爱给网_aigei_com。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-45_爱给网_aigei_com.png重新导入资产日式风格恐怖类rpg游戏素材-异常感染-45_爱给网_aigei_com。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/复古风2D MMORPG网络游戏源码-办公桌1.111(de_爱给网_aigei_com.png重新导入资产复古风2D_MMORPG网络游戏源码-办公桌1_111_de_爱给网_aigei_com。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-71_爱给网_aigei_com.png重新导入资产日式风格恐怖类rpg游戏素材-异常感染-71_爱给网_aigei_com。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/精神病院恐怖生存解谜题材游戏素材-84号囚犯-烤(baked_爱给网_aigei_com.png重新导入资产精神病院恐怖生存解谜题材游戏素材-84号囚犯-烤_baked_爱给网_aigei_com。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-52_爱给网_aigei_com.png重新导入资产日式风格恐怖类rpg游戏素材-异常感染-52_爱给网_aigei_com。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/场景/日式风格恐怖类rpg游戏素材-异常感染-18_爱给网_aigei_com.png重新导入资产日式风格恐怖类rpg游戏素材-异常感染-18_爱给网_aigei_com。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像152.png重新导入资产图像152。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像146.png重新导入资产图像146。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像150.png重新导入资产图像150。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像144.png重新导入资产图像144。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像169.png重新导入资产图像169。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像140.png重新导入资产图像140。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像154.png重新导入资产图像154。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像142.png重新导入资产图像142。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像156.png重新导入资产图像156。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像132.png重新导入资产图像132。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像136.png重新导入资产图像136。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像134.png重新导入资产图像134。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像138.png重新导入资产图像138。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像167.png重新导入资产图像167。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像171.png重新导入资产图像171。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像164.png重新导入资产图像164。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像158.png重新导入资产图像158。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像160.png重新导入资产图像160。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像148.png重新导入资产图像148。
+[2020.09.07-07.06.52:097][883]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/游戏素材/游戏素材/怪物/《丧尸之乱》格斗游戏人物序列动画素材-Images-图像13_爱给网_aigei_com/图像162.png重新导入资产图像162。
+[2020.09.07-07.07.04:143][240]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Developers/fdy/Source/人物/2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com.2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com
+[2020.09.07-07.07.16:969][678]LogTexture: Display: 正在编译纹理：2D_RPG丧尸素材-自制丧尸素材-2_爱给网_aigei_com（BGRA8、128X192）
+[2020.09.07-07.07.27:637][874]LogSlate: Window '提取sprite' being destroyed
+[2020.09.07-07.09.20:484][768]LogSlate: Window '提取sprite' being destroyed
+[2020.09.07-07.09.23:585][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.09.07-07.09.24:524][111]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.07-07.09.25:376][111]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Developers/fdy/Source/微信图片_20200907150314.微信图片_20200907150314
+[2020.09.07-07.09.29:440][111]LogSlate: Window '消息' being destroyed
+[2020.09.07-07.09.29:444][111]Message dialog closed, result: Ok, title: 消息, text: Texture2D /Game/Developers/fdy/Source/微信图片_20200907150314.微信图片_20200907150314正在使用中。
+
+---
+如对象是在启动时加载的，那么使用“-NoLoadStartupPackages”来运行编辑器可能有所帮助。
+---
+
+
+External referencers of Texture2D /Game/Developers/fdy/Source/微信图片_20200907150314.微信图片_20200907150314:
+   PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_0.微信图片_20200907150314_Sprite_0 (standalone) (1)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+   PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_1.微信图片_20200907150314_Sprite_1 (standalone) (1)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+   PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_2.微信图片_20200907150314_Sprite_2 (standalone) (1)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+   PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_3.微信图片_20200907150314_Sprite_3 (standalone) (1)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+   PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_4.微信图片_20200907150314_Sprite_4 (standalone) (1)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+   PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_5.微信图片_20200907150314_Sprite_5 (standalone) (1)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+   PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_6.微信图片_20200907150314_Sprite_6 (standalone) (1)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+   PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_7.微信图片_20200907150314_Sprite_7 (standalone) (1)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+   PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_8.微信图片_20200907150314_Sprite_8 (standalone) (1)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+   PaperSprite /Game/Developers/fdy/Source/微信图片_20200907150314_Sprite_9.微信图片_20200907150314_Sprite_9 (standalone) (1)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+
+
+[2020.09.07-07.09.29:444][111]LogObjectTools: Warning: ForceDeleteObject failed to delete 微信图片_20200907150314, this package is now potentially corrupt
+[2020.09.07-07.09.29:459][111]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.09.07-07.09.30:882][111]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.424 s
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: === Handled ensure: ===
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: 
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 2891]
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: 
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: 					from the file system manually: 
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: /Game/Developers/fdy/Source/微信图片_20200907150314
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: Stack: 
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: [Callstack] 0x00007fff76f9c3d8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: [Callstack] 0x00007fff768852d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: [Callstack] 0x00007fff76039e39 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: [Callstack] 0x00007fff762dd43e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: [Callstack] 0x00007fff762d6dc7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: [Callstack] 0x00007fff78ae207e UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: [Callstack] 0x00007fff78afb27e UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: [Callstack] 0x00007fff78942dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: [Callstack] 0x00007fff789c69cf UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: [Callstack] 0x00007fff789af4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: [Callstack] 0x00007fff789a2392 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: [Callstack] 0x00007fffa4267f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: [Callstack] 0x00007fffa4255c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: [Callstack] 0x00007fffa426a609 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.07-07.09.30:892][111]LogOutputDevice: Error: [Callstack] 0x00007fffa42517d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fffbf445c7d USER32.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fffbf445672 USER32.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fffa426b9c9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fff789d0d5d UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fff7896bdb7 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fff7636f00e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fff768794dc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fff76878916 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fff5a2a977e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fff5a3d7506 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fff5a3b749e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fff78972dc1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fff789ab54a UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fff5a401f9b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fff7894061b UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fff789ad561 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fff789a0f16 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fffa4267c25 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fffa4255c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fffa426a609 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fffa42517d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fffbf445c7d USER32.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fffbf445672 USER32.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fffa426bb24 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007ff7136568c4 UE4Editor.exe!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007ff71366ba7c UE4Editor.exe!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007ff71366bb5a UE4Editor.exe!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007ff71367e31d UE4Editor.exe!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007ff71368145a UE4Editor.exe!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fffbffc7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: [Callstack] 0x00007fffc076ce51 ntdll.dll!UnknownFunction []
+[2020.09.07-07.09.30:893][111]LogOutputDevice: Error: 
