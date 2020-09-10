@@ -6,7 +6,7 @@
 *.lo
 *.o
 *.obj
-
+\minigame2d\fdy_try_game
 # Precompiled Headers
 *.gch
 *.pch
