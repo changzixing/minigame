@@ -1259,3 +1259,1434 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.11-05.48.18:311][788]LogHttp: Warning: 000002B900DF6400: libcurl info message cache 7 (Closing connection 2)
 [2020.09.11-05.48.18:311][788]LogHttp: Warning: 000002B900DF6400: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
 [2020.09.11-05.48.18:311][788]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B35A34DF7-438B-4AFC-4F31-FF984D0F0B45%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=0a7465674659920a8c7c4f846aa0c5dd%7C008155afdb0344378b2bf30ad5b1af7c%7C2f97ace2-e986-4a4c-b319-8c9a03e11781&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.09.11-05.49.22:913][981]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.11-05.49.22:978][981]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (中文 - QQ拼音输入法).
+[2020.09.11-05.52.57:520][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.09.11-05.52.57:546][642]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/level_02_Auto12539457044DAD5DB99909CA0B4B56D3B.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Saved/Autosaves/Game/Developers/fdy/Maps/level_02_Auto1.umap'
+[2020.09.11-05.52.57:547][642]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/fdy/Maps/level_02' took 0.051
+[2020.09.11-05.52.57:547][642]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.051
+[2020.09.11-05.55.19:429][169]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2020.09.11-05.55.31:285][423]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.11-05.55.31:285][423]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.11-05.55.36:619][943]AssetReimport: New page: 出色的源内容修改下午9:55:36
+[2020.09.11-05.55.36:681][943]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角-爆头.png]
+[2020.09.11-05.55.36:681][943]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角-爆头.png)
+[2020.09.11-05.55.36:706][943]LogEditorFactories: -- imported successfully
+[2020.09.11-05.55.36:777][944]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角.png]
+[2020.09.11-05.55.36:777][944]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角.png)
+[2020.09.11-05.55.36:801][944]LogEditorFactories: -- imported successfully
+[2020.09.11-05.55.36:845][945]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角坐下动作-爆头.png]
+[2020.09.11-05.55.36:845][945]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角坐下动作-爆头.png)
+[2020.09.11-05.55.36:852][945]LogEditorFactories: -- imported successfully
+[2020.09.11-05.55.36:853][945]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角坐下动作.png]
+[2020.09.11-05.55.36:854][945]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角坐下动作.png)
+[2020.09.11-05.55.36:856][945]LogEditorFactories: -- imported successfully
+[2020.09.11-05.55.36:858][945]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/变身僵尸.png]
+[2020.09.11-05.55.36:858][945]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/变身僵尸.png)
+[2020.09.11-05.55.36:879][945]LogEditorFactories: -- imported successfully
+[2020.09.11-05.55.36:942][946]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/同学npc.png]
+[2020.09.11-05.55.36:943][946]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/同学npc.png)
+[2020.09.11-05.55.36:966][946]LogEditorFactories: -- imported successfully
+[2020.09.11-05.55.37:026][947]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/同学npc坐下动作.png]
+[2020.09.11-05.55.37:026][947]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/同学npc坐下动作.png)
+[2020.09.11-05.55.37:029][947]LogEditorFactories: -- imported successfully
+[2020.09.11-05.55.37:030][947]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/老师-发现.png]
+[2020.09.11-05.55.37:030][947]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/老师-发现.png)
+[2020.09.11-05.55.37:034][947]LogEditorFactories: -- imported successfully
+[2020.09.11-05.55.37:036][947]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/老师.png]
+[2020.09.11-05.55.37:036][947]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/老师.png)
+[2020.09.11-05.55.37:053][947]LogEditorFactories: -- imported successfully
+[2020.09.11-05.55.37:094][948]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏-女鬼爬出.png]
+[2020.09.11-05.55.37:094][948]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏-女鬼爬出.png)
+[2020.09.11-05.55.37:125][948]LogEditorFactories: -- imported successfully
+[2020.09.11-05.55.37:160][949]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏-有通知.png]
+[2020.09.11-05.55.37:160][949]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏-有通知.png)
+[2020.09.11-05.55.37:180][949]LogEditorFactories: -- imported successfully
+[2020.09.11-05.55.37:191][950]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏-血迹.png]
+[2020.09.11-05.55.37:191][950]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏-血迹.png)
+[2020.09.11-05.55.37:207][950]LogEditorFactories: -- imported successfully
+[2020.09.11-05.55.37:209][950]LogEditorFactories: Performing atomic reimport of [F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏.png]
+[2020.09.11-05.55.37:209][950]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏.png)
+[2020.09.11-05.55.37:221][950]LogEditorFactories: -- imported successfully
+[2020.09.11-05.55.37:263][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Picture/人物/主角-爆头" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角-爆头.uasset" SILENT=true
+[2020.09.11-05.55.37:269][951]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/主角-爆头B4805BA949263A9FF6C5B4BBD5CAFA9D.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角-爆头.uasset'
+[2020.09.11-05.55.37:272][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Picture/人物/主角" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角.uasset" SILENT=true
+[2020.09.11-05.55.37:276][951]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/主角E89047D443C2655F1E03379C9F145AD8.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角.uasset'
+[2020.09.11-05.55.37:278][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Picture/人物/主角坐下动作-爆头" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角坐下动作-爆头.uasset" SILENT=true
+[2020.09.11-05.55.37:281][951]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/主角坐下动作-爆头857FDF9B48AC452B169A1FB73154FABF.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角坐下动作-爆头.uasset'
+[2020.09.11-05.55.37:282][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Picture/人物/主角坐下动作" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角坐下动作.uasset" SILENT=true
+[2020.09.11-05.55.37:285][951]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/主角坐下动作D055EF694678BBEDA305908B60CE5AB4.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角坐下动作.uasset'
+[2020.09.11-05.55.37:288][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Picture/人物/变身僵尸" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/变身僵尸.uasset" SILENT=true
+[2020.09.11-05.55.37:292][951]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/变身僵尸6C5E16E447B9DE6245CF11AD4AC0C666.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/变身僵尸.uasset'
+[2020.09.11-05.55.37:295][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Picture/人物/同学npc" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/同学npc.uasset" SILENT=true
+[2020.09.11-05.55.37:299][951]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/同学npcE9D17FD64A7C4D1E56319882B394D7E6.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/同学npc.uasset'
+[2020.09.11-05.55.37:301][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Picture/人物/同学npc坐下动作" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/同学npc坐下动作.uasset" SILENT=true
+[2020.09.11-05.55.37:304][951]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/同学npc坐下动作4CB9D4964E31215991F3FFB78AB2F33C.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/同学npc坐下动作.uasset'
+[2020.09.11-05.55.37:307][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Picture/人物/老师-发现" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/老师-发现.uasset" SILENT=true
+[2020.09.11-05.55.37:310][951]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/老师-发现859F27244D5D1206361AC6B127F44E3A.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/老师-发现.uasset'
+[2020.09.11-05.55.37:313][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Picture/人物/老师" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/老师.uasset" SILENT=true
+[2020.09.11-05.55.37:317][951]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/老师18BDDEBC4540E2222CF41181EF771ED7.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/老师.uasset'
+[2020.09.11-05.55.37:320][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Picture/场景/公告栏-女鬼爬出" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏-女鬼爬出.uasset" SILENT=true
+[2020.09.11-05.55.37:327][951]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/公告栏-女鬼爬出2C2043CB4DC44894A51D178F6935214D.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏-女鬼爬出.uasset'
+[2020.09.11-05.55.37:331][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Picture/场景/公告栏-有通知" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏-有通知.uasset" SILENT=true
+[2020.09.11-05.55.37:337][951]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/公告栏-有通知B9991F274BF163D05FD0C5900477F683.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏-有通知.uasset'
+[2020.09.11-05.55.37:340][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Picture/场景/公告栏-血迹" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏-血迹.uasset" SILENT=true
+[2020.09.11-05.55.37:346][951]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/公告栏-血迹B807DFD146DA6496FB2A2DA6A8EEE101.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏-血迹.uasset'
+[2020.09.11-05.55.37:349][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Picture/场景/公告栏" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏.uasset" SILENT=true
+[2020.09.11-05.55.37:354][951]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/公告栏14D8F91941D5855D55B8CA8FA964EDFE.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏.uasset'
+[2020.09.11-05.55.37:424][952]AssetCheck: New page: 资产保存：多个资产
+[2020.09.11-05.55.37:424][952]LogContentValidation: Display: 正在验证Texture2D /Game/Picture/人物/主角-爆头.主角-爆头
+[2020.09.11-05.55.37:425][952]LogContentValidation: Display: 正在验证Texture2D /Game/Picture/人物/主角.主角
+[2020.09.11-05.55.37:425][952]LogContentValidation: Display: 正在验证Texture2D /Game/Picture/人物/主角坐下动作-爆头.主角坐下动作-爆头
+[2020.09.11-05.55.37:425][952]LogContentValidation: Display: 正在验证Texture2D /Game/Picture/人物/主角坐下动作.主角坐下动作
+[2020.09.11-05.55.37:425][952]LogContentValidation: Display: 正在验证Texture2D /Game/Picture/人物/变身僵尸.变身僵尸
+[2020.09.11-05.55.37:425][952]LogContentValidation: Display: 正在验证Texture2D /Game/Picture/人物/同学npc.同学npc
+[2020.09.11-05.55.37:425][952]LogContentValidation: Display: 正在验证Texture2D /Game/Picture/人物/同学npc坐下动作.同学npc坐下动作
+[2020.09.11-05.55.37:425][952]LogContentValidation: Display: 正在验证Texture2D /Game/Picture/人物/老师-发现.老师-发现
+[2020.09.11-05.55.37:425][952]LogContentValidation: Display: 正在验证Texture2D /Game/Picture/人物/老师.老师
+[2020.09.11-05.55.37:425][952]LogContentValidation: Display: 正在验证Texture2D /Game/Picture/场景/公告栏-女鬼爬出.公告栏-女鬼爬出
+[2020.09.11-05.55.37:425][952]LogContentValidation: Display: 正在验证Texture2D /Game/Picture/场景/公告栏-有通知.公告栏-有通知
+[2020.09.11-05.55.37:425][952]LogContentValidation: Display: 正在验证Texture2D /Game/Picture/场景/公告栏-血迹.公告栏-血迹
+[2020.09.11-05.55.37:425][952]LogContentValidation: Display: 正在验证Texture2D /Game/Picture/场景/公告栏.公告栏
+[2020.09.11-05.55.40:375][248]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角-爆头.png重新导入资产主角-爆头。
+[2020.09.11-05.55.40:375][248]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角.png重新导入资产主角。
+[2020.09.11-05.55.40:375][248]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角坐下动作-爆头.png重新导入资产主角坐下动作-爆头。
+[2020.09.11-05.55.40:375][248]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/主角坐下动作.png重新导入资产主角坐下动作。
+[2020.09.11-05.55.40:375][248]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/变身僵尸.png重新导入资产变身僵尸。
+[2020.09.11-05.55.40:375][248]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/同学npc.png重新导入资产同学npc。
+[2020.09.11-05.55.40:375][248]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/同学npc坐下动作.png重新导入资产同学npc坐下动作。
+[2020.09.11-05.55.40:375][248]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/老师-发现.png重新导入资产老师-发现。
+[2020.09.11-05.55.40:375][248]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/人物/老师.png重新导入资产老师。
+[2020.09.11-05.55.40:376][248]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏-女鬼爬出.png重新导入资产公告栏-女鬼爬出。
+[2020.09.11-05.55.40:376][248]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏-有通知.png重新导入资产公告栏-有通知。
+[2020.09.11-05.55.40:376][248]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏-血迹.png重新导入资产公告栏-血迹。
+[2020.09.11-05.55.40:376][248]AssetReimport: 从F:/work/Minigame/My2Dgame/minigame2d/Content/Picture/场景/公告栏.png重新导入资产公告栏。
+[2020.09.11-05.56.34:916][897]AssetReimport: New page: 出色的源内容修改下午9:56:34
+[2020.09.11-05.56.34:917][897]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/无标题.png)
+[2020.09.11-05.56.35:153][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Source/无标题" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/无标题.uasset" SILENT=true
+[2020.09.11-05.56.35:165][898]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/无标题CFCBEF394CE5777D7E6940AD1AD94329.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/无标题.uasset'
+[2020.09.11-05.56.35:274][899]AssetCheck: New page: 资产保存：无标题
+[2020.09.11-05.56.35:274][899]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/无标题.无标题
+[2020.09.11-05.56.38:246][187]AssetReimport: 正在导入新资产/Game/Developers/fdy/Source/无标题。
+[2020.09.11-05.56.50:708][614]LogSlate: Window '提取sprite' being destroyed
+[2020.09.11-05.57.01:320][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Source/blackHole" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/blackHole.uasset" SILENT=true
+[2020.09.11-05.57.01:323][839]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/blackHole49C8D6514CE6E2B4FF4F3AADCF810155.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/blackHole.uasset'
+[2020.09.11-05.57.01:471][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.09.11-05.57.01:507][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.09.11-05.57.01:529][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.09.11-05.57.01:553][839]AssetCheck: New page: 资产保存：blackHole
+[2020.09.11-05.57.01:553][839]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/blackHole.blackHole
+[2020.09.11-05.57.39:444][360]LogSlate: Window '取色器' being destroyed
+[2020.09.11-05.57.45:422][936]LogTemp: Repeating last play command: 选中的视口
+[2020.09.11-05.57.45:434][936]BlueprintLog: New page: 运行前自动重新编译
+[2020.09.11-05.57.45:435][936]LogPlayLevel: [PlayLevel] Compiling PlayerBP before play...
+[2020.09.11-05.57.45:478][936]LogPlayLevel: [PlayLevel] Compiling level_02 before play...
+[2020.09.11-05.57.45:525][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.09.11-05.57.45:528][936]LogPlayLevel: PlayLevel: Blueprint regeneration took 93 ms (2 blueprints)
+[2020.09.11-05.57.45:529][936]PIE: New page: PIE会话：level_02（2020年9月11日 下午9:57:45）
+[2020.09.11-05.57.45:549][936]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-05.57.45:552][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003514s)
+[2020.09.11-05.57.45:553][936]LogAIModule: Creating AISystem for world level_02
+[2020.09.11-05.57.45:553][936]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B911A57A00), frame # 91936
+[2020.09.11-05.57.45:553][936]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B9114FBD80), frame # 91936
+[2020.09.11-05.57.45:553][936]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2020.09.11-05.57.45:553][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_02.level_02 to /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 (0.004636s)
+[2020.09.11-05.57.45:574][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.09.11-05.57.45:575][936]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.11-05.57.45:575][936]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.11-05.57.45:575][936]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.11-05.57.45:575][936]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.11-05.57.45:575][936]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.11-05.57.45:575][936]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.11-05.57.45:575][936]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.11-05.57.45:575][936]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.11-05.57.45:576][936]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.11-05.57.45:576][936]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.11-05.57.45:580][936]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.11-05.57.45:580][936]LogAudioMixer: Display: 1: FrontRight
+[2020.09.11-05.57.45:611][936]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.11-05.57.45:611][936]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.11-05.57.45:611][936]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.11-05.57.45:611][936]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.11-05.57.45:612][936]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.11-05.57.45:624][936]LogInit: FAudioDevice initialized.
+[2020.09.11-05.57.45:635][936]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.11-05.57.45:636][936]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 up for play (max tick rate 0) at 2020.09.11-13.57.45
+[2020.09.11-05.57.45:636][936]LogWorld: Bringing up level for play took: 0.001119
+[2020.09.11-05.57.45:637][936]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.09.11-05.57.45:640][936]PIE: 登陆的服务器
+[2020.09.11-05.57.45:641][936]PIE: PIE总开始时间：0.206秒。
+[2020.09.11-05.57.55:100][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-05.57.55:100][997]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-05.57.55:100][997]LogWorld: UWorld::CleanupWorld for level_02, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-05.57.55:100][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-05.57.55:110][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.11-05.57.55:113][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-05.57.55:134][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-05.57.55:150][997]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B9114FBD80), frame # 92997
+[2020.09.11-05.57.55:150][997]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B911A57A00), frame # 92997
+[2020.09.11-05.57.55:151][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.09.11-05.57.55:180][998]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.09.11-05.58.01:876][523]LogTemp: Repeating last play command: 选中的视口
+[2020.09.11-05.58.01:889][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.11-05.58.01:889][523]PIE: New page: PIE会话：level_02（2020年9月11日 下午9:58:01）
+[2020.09.11-05.58.01:919][523]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-05.58.01:922][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003377s)
+[2020.09.11-05.58.01:923][523]LogAIModule: Creating AISystem for world level_02
+[2020.09.11-05.58.01:923][523]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B911A36E00), frame # 93523
+[2020.09.11-05.58.01:923][523]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B91460CE00), frame # 93523
+[2020.09.11-05.58.01:923][523]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2020.09.11-05.58.01:923][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_02.level_02 to /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 (0.004470s)
+[2020.09.11-05.58.01:945][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.09.11-05.58.01:946][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.11-05.58.01:946][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.11-05.58.01:946][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.11-05.58.01:946][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.11-05.58.01:946][523]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.11-05.58.01:946][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.11-05.58.01:946][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.11-05.58.01:946][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.11-05.58.01:947][523]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.11-05.58.01:947][523]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.11-05.58.01:951][523]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.11-05.58.01:951][523]LogAudioMixer: Display: 1: FrontRight
+[2020.09.11-05.58.01:980][523]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.11-05.58.01:980][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.11-05.58.01:980][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.11-05.58.01:980][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.11-05.58.01:980][523]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.11-05.58.01:981][523]LogInit: FAudioDevice initialized.
+[2020.09.11-05.58.01:997][523]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.11-05.58.01:999][523]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 up for play (max tick rate 0) at 2020.09.11-13.58.01
+[2020.09.11-05.58.01:999][523]LogWorld: Bringing up level for play took: 0.001055
+[2020.09.11-05.58.01:999][523]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.09.11-05.58.02:002][523]PIE: 登陆的服务器
+[2020.09.11-05.58.02:002][523]PIE: PIE总开始时间：0.115秒。
+[2020.09.11-05.58.04:050][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-05.58.04:050][765]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-05.58.04:050][765]LogWorld: UWorld::CleanupWorld for level_02, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-05.58.04:050][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-05.58.04:055][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.11-05.58.04:058][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-05.58.04:079][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-05.58.04:095][765]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B91460CE00), frame # 93765
+[2020.09.11-05.58.04:095][765]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B911A36E00), frame # 93765
+[2020.09.11-05.58.04:096][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.09.11-05.58.04:142][767]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.09.11-05.58.05:102][881]LogTemp: Repeating last play command: 选中的视口
+[2020.09.11-05.58.05:114][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.11-05.58.05:114][881]PIE: New page: PIE会话：level_02（2020年9月11日 下午9:58:05）
+[2020.09.11-05.58.05:139][881]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-05.58.05:143][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003387s)
+[2020.09.11-05.58.05:143][881]LogAIModule: Creating AISystem for world level_02
+[2020.09.11-05.58.05:143][881]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B91648DC00), frame # 93881
+[2020.09.11-05.58.05:144][881]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B91460D940), frame # 93881
+[2020.09.11-05.58.05:144][881]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2020.09.11-05.58.05:144][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_02.level_02 to /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 (0.004421s)
+[2020.09.11-05.58.05:165][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.09.11-05.58.05:166][881]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.11-05.58.05:166][881]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.11-05.58.05:166][881]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.11-05.58.05:166][881]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.11-05.58.05:166][881]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.11-05.58.05:166][881]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.11-05.58.05:166][881]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.11-05.58.05:166][881]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.11-05.58.05:167][881]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.11-05.58.05:167][881]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.11-05.58.05:170][881]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.11-05.58.05:170][881]LogAudioMixer: Display: 1: FrontRight
+[2020.09.11-05.58.05:199][881]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.11-05.58.05:200][881]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.11-05.58.05:200][881]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.11-05.58.05:200][881]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.11-05.58.05:200][881]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.11-05.58.05:212][881]LogInit: FAudioDevice initialized.
+[2020.09.11-05.58.05:219][881]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.11-05.58.05:220][881]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 up for play (max tick rate 0) at 2020.09.11-13.58.05
+[2020.09.11-05.58.05:221][881]LogWorld: Bringing up level for play took: 0.000960
+[2020.09.11-05.58.05:221][881]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.09.11-05.58.05:223][881]PIE: 登陆的服务器
+[2020.09.11-05.58.05:224][881]PIE: PIE总开始时间：0.111秒。
+[2020.09.11-05.58.06:350][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-05.58.06:350][ 11]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-05.58.06:350][ 11]LogWorld: UWorld::CleanupWorld for level_02, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-05.58.06:350][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-05.58.06:359][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.11-05.58.06:362][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-05.58.06:383][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-05.58.06:399][ 11]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B91460D940), frame # 94011
+[2020.09.11-05.58.06:399][ 11]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B91648DC00), frame # 94011
+[2020.09.11-05.58.06:400][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.09.11-05.58.06:423][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.09.11-05.58.09:097][330]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.09.11-05.58.10:588][506]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.09.11-05.58.11:227][580]LogTemp: Repeating last play command: 选中的视口
+[2020.09.11-05.58.11:240][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.11-05.58.11:240][580]PIE: New page: PIE会话：level_02（2020年9月11日 下午9:58:11）
+[2020.09.11-05.58.11:240][580]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-05.58.11:243][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003362s)
+[2020.09.11-05.58.11:244][580]LogAIModule: Creating AISystem for world level_02
+[2020.09.11-05.58.11:244][580]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B921BA0800), frame # 94580
+[2020.09.11-05.58.11:244][580]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B913DBBEC0), frame # 94580
+[2020.09.11-05.58.11:244][580]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2020.09.11-05.58.11:244][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_02.level_02 to /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 (0.004347s)
+[2020.09.11-05.58.11:266][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.09.11-05.58.11:267][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.11-05.58.11:267][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.11-05.58.11:267][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.11-05.58.11:267][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.11-05.58.11:267][580]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.11-05.58.11:267][580]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.11-05.58.11:267][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.11-05.58.11:267][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.11-05.58.11:268][580]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.11-05.58.11:268][580]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.11-05.58.11:272][580]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.11-05.58.11:272][580]LogAudioMixer: Display: 1: FrontRight
+[2020.09.11-05.58.11:300][580]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.11-05.58.11:300][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.11-05.58.11:300][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.11-05.58.11:300][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.11-05.58.11:300][580]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.11-05.58.11:313][580]LogInit: FAudioDevice initialized.
+[2020.09.11-05.58.11:319][580]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.11-05.58.11:321][580]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 up for play (max tick rate 0) at 2020.09.11-13.58.11
+[2020.09.11-05.58.11:321][580]LogWorld: Bringing up level for play took: 0.000965
+[2020.09.11-05.58.11:321][580]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.09.11-05.58.11:324][580]PIE: 登陆的服务器
+[2020.09.11-05.58.11:324][580]PIE: PIE总开始时间：0.085秒。
+[2020.09.11-05.58.12:510][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-05.58.12:510][717]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-05.58.12:511][717]LogWorld: UWorld::CleanupWorld for level_02, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-05.58.12:511][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-05.58.12:515][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.11-05.58.12:518][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-05.58.12:539][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-05.58.12:555][717]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B913DBBEC0), frame # 94717
+[2020.09.11-05.58.12:555][717]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B921BA0800), frame # 94717
+[2020.09.11-05.58.12:556][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.09.11-05.58.12:597][719]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.09.11-05.58.38:327][ 77]BlueprintLog: New page: 编译PlayerBP
+[2020.09.11-05.58.38:372][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.09.11-05.58.38:994][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Characters/Player/PlayerBP" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset" SILENT=true
+[2020.09.11-05.58.39:018][131]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/PlayerBPEC6172F3484CC4C4D097CE9268205F64.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset'
+[2020.09.11-05.58.39:027][131]AssetCheck: New page: 资产保存：PlayerBP
+[2020.09.11-05.58.39:027][131]LogContentValidation: Display: 正在验证Blueprint /Game/Developers/fdy/Characters/Player/PlayerBP.PlayerBP
+[2020.09.11-05.58.45:223][323]LogTemp: Repeating last play command: 选中的视口
+[2020.09.11-05.58.45:236][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.11-05.58.45:236][323]PIE: New page: PIE会话：level_02（2020年9月11日 下午9:58:45）
+[2020.09.11-05.58.45:236][323]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-05.58.45:240][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003498s)
+[2020.09.11-05.58.45:240][323]LogAIModule: Creating AISystem for world level_02
+[2020.09.11-05.58.45:240][323]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B90D4E9600), frame # 97323
+[2020.09.11-05.58.45:240][323]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B90D007C40), frame # 97323
+[2020.09.11-05.58.45:241][323]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2020.09.11-05.58.45:241][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_02.level_02 to /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 (0.004522s)
+[2020.09.11-05.58.45:264][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.09.11-05.58.45:266][323]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.11-05.58.45:266][323]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.11-05.58.45:266][323]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.11-05.58.45:266][323]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.11-05.58.45:266][323]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.11-05.58.45:266][323]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.11-05.58.45:266][323]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.11-05.58.45:266][323]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.11-05.58.45:267][323]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.11-05.58.45:267][323]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.11-05.58.45:271][323]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.11-05.58.45:271][323]LogAudioMixer: Display: 1: FrontRight
+[2020.09.11-05.58.45:299][323]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.11-05.58.45:299][323]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.11-05.58.45:299][323]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.11-05.58.45:299][323]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.11-05.58.45:300][323]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.11-05.58.45:312][323]LogInit: FAudioDevice initialized.
+[2020.09.11-05.58.45:319][323]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.11-05.58.45:320][323]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 up for play (max tick rate 0) at 2020.09.11-13.58.45
+[2020.09.11-05.58.45:321][323]LogWorld: Bringing up level for play took: 0.001011
+[2020.09.11-05.58.45:321][323]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.09.11-05.58.45:323][323]PIE: 登陆的服务器
+[2020.09.11-05.58.45:324][323]PIE: PIE总开始时间：0.089秒。
+[2020.09.11-05.59.09:762][509]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.11-05.59.09:794][509]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (中文 - QQ拼音输入法).
+[2020.09.11-05.59.20:750][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-05.59.20:750][803]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-05.59.20:750][803]LogWorld: UWorld::CleanupWorld for level_02, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-05.59.20:750][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-05.59.20:755][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.11-05.59.20:758][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-05.59.20:794][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-05.59.20:795][803]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B90D007C40), frame # 99803
+[2020.09.11-05.59.20:795][803]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B90D4E9600), frame # 99803
+[2020.09.11-05.59.20:797][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.09.11-05.59.20:839][805]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.09.11-05.59.42:307][613]BlueprintLog: New page: 编译PlayerBP
+[2020.09.11-05.59.42:352][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.09.11-06.00.02:990][116]LogTemp: Repeating last play command: 选中的视口
+[2020.09.11-06.00.03:002][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.11-06.00.03:002][116]PIE: New page: PIE会话：level_02（2020年9月11日 下午10:00:03）
+[2020.09.11-06.00.03:002][116]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.00.03:006][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003483s)
+[2020.09.11-06.00.03:006][116]LogAIModule: Creating AISystem for world level_02
+[2020.09.11-06.00.03:006][116]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B915351C00), frame # 102116
+[2020.09.11-06.00.03:007][116]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B905B85E40), frame # 102116
+[2020.09.11-06.00.03:007][116]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2020.09.11-06.00.03:007][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_02.level_02 to /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 (0.004472s)
+[2020.09.11-06.00.03:029][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.09.11-06.00.03:031][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.11-06.00.03:031][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.11-06.00.03:031][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.11-06.00.03:031][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.11-06.00.03:031][116]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.11-06.00.03:031][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.11-06.00.03:031][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.11-06.00.03:031][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.11-06.00.03:032][116]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.11-06.00.03:032][116]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.11-06.00.03:035][116]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.11-06.00.03:035][116]LogAudioMixer: Display: 1: FrontRight
+[2020.09.11-06.00.03:065][116]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.11-06.00.03:065][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.11-06.00.03:065][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.11-06.00.03:065][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.11-06.00.03:065][116]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.11-06.00.03:078][116]LogInit: FAudioDevice initialized.
+[2020.09.11-06.00.03:086][116]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.11-06.00.03:088][116]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 up for play (max tick rate 0) at 2020.09.11-14.00.03
+[2020.09.11-06.00.03:088][116]LogWorld: Bringing up level for play took: 0.000949
+[2020.09.11-06.00.03:088][116]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.09.11-06.00.03:091][116]PIE: 登陆的服务器
+[2020.09.11-06.00.03:091][116]PIE: PIE总开始时间：0.09秒。
+[2020.09.11-06.00.10:930][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.00.10:930][ 51]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.00.10:930][ 51]LogWorld: UWorld::CleanupWorld for level_02, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.00.10:930][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.00.10:941][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.11-06.00.10:944][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.00.10:980][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.00.10:981][ 51]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B905B85E40), frame # 103051
+[2020.09.11-06.00.10:981][ 51]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B915351C00), frame # 103051
+[2020.09.11-06.00.10:983][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.09.11-06.00.11:010][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.09.11-06.00.14:976][376]LogTemp: Repeating last play command: 选中的视口
+[2020.09.11-06.00.14:988][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.11-06.00.14:988][376]PIE: New page: PIE会话：level_02（2020年9月11日 下午10:00:14）
+[2020.09.11-06.00.15:009][376]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.00.15:012][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003373s)
+[2020.09.11-06.00.15:013][376]LogAIModule: Creating AISystem for world level_02
+[2020.09.11-06.00.15:013][376]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B90D34FC00), frame # 103376
+[2020.09.11-06.00.15:013][376]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B91C67F600), frame # 103376
+[2020.09.11-06.00.15:013][376]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2020.09.11-06.00.15:013][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_02.level_02 to /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 (0.004405s)
+[2020.09.11-06.00.15:034][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.09.11-06.00.15:036][376]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.11-06.00.15:036][376]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.11-06.00.15:036][376]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.11-06.00.15:036][376]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.11-06.00.15:036][376]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.11-06.00.15:036][376]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.11-06.00.15:036][376]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.11-06.00.15:036][376]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.11-06.00.15:037][376]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.11-06.00.15:037][376]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.11-06.00.15:041][376]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.11-06.00.15:041][376]LogAudioMixer: Display: 1: FrontRight
+[2020.09.11-06.00.15:070][376]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.11-06.00.15:070][376]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.11-06.00.15:070][376]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.11-06.00.15:070][376]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.11-06.00.15:070][376]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.11-06.00.15:083][376]LogInit: FAudioDevice initialized.
+[2020.09.11-06.00.15:093][376]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.11-06.00.15:094][376]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 up for play (max tick rate 0) at 2020.09.11-14.00.15
+[2020.09.11-06.00.15:095][376]LogWorld: Bringing up level for play took: 0.000963
+[2020.09.11-06.00.15:095][376]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.09.11-06.00.15:097][376]PIE: 登陆的服务器
+[2020.09.11-06.00.15:098][376]PIE: PIE总开始时间：0.111秒。
+[2020.09.11-06.00.27:160][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.00.27:160][816]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.00.27:160][816]LogWorld: UWorld::CleanupWorld for level_02, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.00.27:160][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.00.27:166][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.11-06.00.27:168][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.00.27:190][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.00.27:207][816]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B91C67F600), frame # 104816
+[2020.09.11-06.00.27:207][816]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B90D34FC00), frame # 104816
+[2020.09.11-06.00.27:209][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.09.11-06.00.27:234][817]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.09.11-06.00.38:893][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Maps/level_02" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.11-06.00.38:915][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.09.11-06.00.38:938][ 68]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/level_02C587746A429EF1B4732110991F290FD5.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_02.umap'
+[2020.09.11-06.00.38:961][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Maps/level_02_BuiltData" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_02_BuiltData.uasset" SILENT=true
+[2020.09.11-06.00.38:980][ 68]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/level_02_BuiltData5EF6C79544DF81BEF6B90796A2B24435.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_02_BuiltData.uasset'
+[2020.09.11-06.00.38:996][ 68]AssetCheck: New page: 资产保存：多个资产
+[2020.09.11-06.00.38:996][ 68]LogContentValidation: Display: 正在验证World /Game/Developers/fdy/Maps/level_02.level_02
+[2020.09.11-06.00.38:996][ 68]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/Developers/fdy/Maps/level_02_BuiltData.level_02_BuiltData
+[2020.09.11-06.01.43:376][780]BlueprintLog: New page: 编译PlayerBP
+[2020.09.11-06.01.43:424][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.09.11-06.01.45:268][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Characters/Player/PlayerBP" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset" SILENT=true
+[2020.09.11-06.01.45:292][939]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/PlayerBP8AE958574DF1C50257553DBD63455735.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset'
+[2020.09.11-06.01.45:307][939]AssetCheck: New page: 资产保存：PlayerBP
+[2020.09.11-06.01.45:307][939]LogContentValidation: Display: 正在验证Blueprint /Game/Developers/fdy/Characters/Player/PlayerBP.PlayerBP
+[2020.09.11-06.01.47:262][136]LogTemp: Repeating last play command: 选中的视口
+[2020.09.11-06.01.47:274][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.11-06.01.47:274][136]PIE: New page: PIE会话：level_02（2020年9月11日 下午10:01:47）
+[2020.09.11-06.01.47:299][136]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.01.47:303][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003369s)
+[2020.09.11-06.01.47:304][136]LogAIModule: Creating AISystem for world level_02
+[2020.09.11-06.01.47:304][136]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B91D144C00), frame # 111136
+[2020.09.11-06.01.47:304][136]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B91BFE1440), frame # 111136
+[2020.09.11-06.01.47:304][136]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2020.09.11-06.01.47:304][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_02.level_02 to /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 (0.004406s)
+[2020.09.11-06.01.47:325][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.09.11-06.01.47:328][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.11-06.01.47:328][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.11-06.01.47:328][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.11-06.01.47:328][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.11-06.01.47:328][136]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.11-06.01.47:328][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.11-06.01.47:328][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.11-06.01.47:328][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.11-06.01.47:328][136]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.11-06.01.47:328][136]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.11-06.01.47:331][136]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.11-06.01.47:332][136]LogAudioMixer: Display: 1: FrontRight
+[2020.09.11-06.01.47:361][136]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.11-06.01.47:361][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.11-06.01.47:361][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.11-06.01.47:361][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.11-06.01.47:362][136]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.11-06.01.47:374][136]LogInit: FAudioDevice initialized.
+[2020.09.11-06.01.47:381][136]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.11-06.01.47:383][136]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 up for play (max tick rate 0) at 2020.09.11-14.01.47
+[2020.09.11-06.01.47:383][136]LogWorld: Bringing up level for play took: 0.000948
+[2020.09.11-06.01.47:383][136]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.09.11-06.01.47:385][136]PIE: 登陆的服务器
+[2020.09.11-06.01.47:386][136]PIE: PIE总开始时间：0.114秒。
+[2020.09.11-06.01.59:640][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.01.59:640][602]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.01.59:640][602]LogWorld: UWorld::CleanupWorld for level_02, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.01.59:640][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.01.59:646][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.11-06.01.59:649][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.01.59:685][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.01.59:686][602]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B91BFE1440), frame # 112602
+[2020.09.11-06.01.59:686][602]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B91D144C00), frame # 112602
+[2020.09.11-06.01.59:688][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.09.11-06.01.59:715][603]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.09.11-06.02.07:935][391]BlueprintLog: New page: 编译PlayerBP
+[2020.09.11-06.02.07:979][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.09.11-06.02.08:383][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Characters/Player/PlayerBP" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset" SILENT=true
+[2020.09.11-06.02.08:406][421]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/PlayerBP129C153D443F6EBCCCC5D8BD68448332.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset'
+[2020.09.11-06.02.08:421][421]AssetCheck: New page: 资产保存：PlayerBP
+[2020.09.11-06.02.08:422][421]LogContentValidation: Display: 正在验证Blueprint /Game/Developers/fdy/Characters/Player/PlayerBP.PlayerBP
+[2020.09.11-06.02.10:352][612]LogTemp: Repeating last play command: 选中的视口
+[2020.09.11-06.02.10:364][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.11-06.02.10:364][612]PIE: New page: PIE会话：level_02（2020年9月11日 下午10:02:10）
+[2020.09.11-06.02.10:364][612]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.02.10:367][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003363s)
+[2020.09.11-06.02.10:368][612]LogAIModule: Creating AISystem for world level_02
+[2020.09.11-06.02.10:368][612]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B90D4EBC00), frame # 113612
+[2020.09.11-06.02.10:368][612]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B911439300), frame # 113612
+[2020.09.11-06.02.10:368][612]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2020.09.11-06.02.10:368][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_02.level_02 to /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 (0.004363s)
+[2020.09.11-06.02.10:391][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.09.11-06.02.10:393][612]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.11-06.02.10:393][612]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.11-06.02.10:393][612]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.11-06.02.10:393][612]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.11-06.02.10:393][612]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.11-06.02.10:393][612]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.11-06.02.10:393][612]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.11-06.02.10:393][612]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.11-06.02.10:394][612]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.11-06.02.10:394][612]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.11-06.02.10:398][612]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.11-06.02.10:398][612]LogAudioMixer: Display: 1: FrontRight
+[2020.09.11-06.02.10:426][612]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.11-06.02.10:426][612]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.11-06.02.10:426][612]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.11-06.02.10:426][612]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.11-06.02.10:426][612]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.11-06.02.10:439][612]LogInit: FAudioDevice initialized.
+[2020.09.11-06.02.10:444][612]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.11-06.02.10:445][612]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 up for play (max tick rate 0) at 2020.09.11-14.02.10
+[2020.09.11-06.02.10:446][612]LogWorld: Bringing up level for play took: 0.000973
+[2020.09.11-06.02.10:446][612]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.09.11-06.02.10:448][612]PIE: 登陆的服务器
+[2020.09.11-06.02.10:449][612]PIE: PIE总开始时间：0.086秒。
+[2020.09.11-06.02.12:170][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.02.12:170][814]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.02.12:170][814]LogWorld: UWorld::CleanupWorld for level_02, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.02.12:170][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.02.12:178][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.11-06.02.12:181][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.02.12:217][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.02.12:219][814]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B911439300), frame # 113814
+[2020.09.11-06.02.12:219][814]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B90D4EBC00), frame # 113814
+[2020.09.11-06.02.12:219][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.09.11-06.02.12:245][815]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.09.11-06.02.16:155][184]BlueprintLog: New page: 编译PlayerBP
+[2020.09.11-06.02.16:202][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.09.11-06.02.16:534][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Characters/Player/PlayerBP" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset" SILENT=true
+[2020.09.11-06.02.16:558][210]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/PlayerBP2A8518514CC7210DD5B16AA43045DF30.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset'
+[2020.09.11-06.02.16:573][210]AssetCheck: New page: 资产保存：PlayerBP
+[2020.09.11-06.02.16:574][210]LogContentValidation: Display: 正在验证Blueprint /Game/Developers/fdy/Characters/Player/PlayerBP.PlayerBP
+[2020.09.11-06.02.18:459][394]LogTemp: Repeating last play command: 选中的视口
+[2020.09.11-06.02.18:472][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.11-06.02.18:472][394]PIE: New page: PIE会话：level_02（2020年9月11日 下午10:02:18）
+[2020.09.11-06.02.18:472][394]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.02.18:475][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003404s)
+[2020.09.11-06.02.18:476][394]LogAIModule: Creating AISystem for world level_02
+[2020.09.11-06.02.18:476][394]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B91C9BE600), frame # 114394
+[2020.09.11-06.02.18:476][394]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B911A402C0), frame # 114394
+[2020.09.11-06.02.18:476][394]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2020.09.11-06.02.18:476][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_02.level_02 to /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 (0.004427s)
+[2020.09.11-06.02.18:498][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.09.11-06.02.18:500][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.11-06.02.18:500][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.11-06.02.18:500][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.11-06.02.18:500][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.11-06.02.18:500][394]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.11-06.02.18:500][394]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.11-06.02.18:500][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.11-06.02.18:500][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.11-06.02.18:501][394]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.11-06.02.18:501][394]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.11-06.02.18:504][394]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.11-06.02.18:504][394]LogAudioMixer: Display: 1: FrontRight
+[2020.09.11-06.02.18:533][394]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.11-06.02.18:533][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.11-06.02.18:533][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.11-06.02.18:533][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.11-06.02.18:533][394]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.11-06.02.18:546][394]LogInit: FAudioDevice initialized.
+[2020.09.11-06.02.18:551][394]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.11-06.02.18:552][394]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 up for play (max tick rate 0) at 2020.09.11-14.02.18
+[2020.09.11-06.02.18:552][394]LogWorld: Bringing up level for play took: 0.000950
+[2020.09.11-06.02.18:553][394]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.09.11-06.02.18:555][394]PIE: 登陆的服务器
+[2020.09.11-06.02.18:556][394]PIE: PIE总开始时间：0.084秒。
+[2020.09.11-06.02.29:427][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Characters/Player/PlayerBP" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset" SILENT=true
+[2020.09.11-06.02.29:450][638]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/PlayerBPB61FB446470F5FBE453048BA1C13DEC5.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset'
+[2020.09.11-06.02.29:456][638]AssetCheck: New page: 资产保存：PlayerBP
+[2020.09.11-06.02.29:456][638]LogContentValidation: Display: 正在验证Blueprint /Game/Developers/fdy/Characters/Player/PlayerBP.PlayerBP
+[2020.09.11-06.02.30:430][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Characters/Player/PlayerBP" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset" SILENT=true
+[2020.09.11-06.02.30:453][741]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/PlayerBPFADF86BC48B8CE2238C825A07D1615C9.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset'
+[2020.09.11-06.02.30:458][741]AssetCheck: New page: 资产保存：PlayerBP
+[2020.09.11-06.02.30:458][741]LogContentValidation: Display: 正在验证Blueprint /Game/Developers/fdy/Characters/Player/PlayerBP.PlayerBP
+[2020.09.11-06.02.44:809][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.02.44:810][235]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.02.44:810][235]LogWorld: UWorld::CleanupWorld for level_02, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.02.44:810][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.02.44:819][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.11-06.02.44:822][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.02.44:859][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.02.44:859][235]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B911A402C0), frame # 117235
+[2020.09.11-06.02.44:859][235]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B91C9BE600), frame # 117235
+[2020.09.11-06.02.44:861][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.09.11-06.02.44:890][236]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.09.11-06.02.46:651][386]BlueprintLog: New page: 编译PlayerBP
+[2020.09.11-06.02.46:697][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.09.11-06.02.47:166][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Characters/Player/PlayerBP" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset" SILENT=true
+[2020.09.11-06.02.47:190][425]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/PlayerBP737ED16B4A662E76101C49AA76EB8A00.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset'
+[2020.09.11-06.02.47:203][425]AssetCheck: New page: 资产保存：PlayerBP
+[2020.09.11-06.02.47:203][425]LogContentValidation: Display: 正在验证Blueprint /Game/Developers/fdy/Characters/Player/PlayerBP.PlayerBP
+[2020.09.11-06.02.50:099][730]LogTemp: Repeating last play command: 选中的视口
+[2020.09.11-06.02.50:111][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.11-06.02.50:111][730]PIE: New page: PIE会话：level_02（2020年9月11日 下午10:02:50）
+[2020.09.11-06.02.50:111][730]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.02.50:115][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003342s)
+[2020.09.11-06.02.50:115][730]LogAIModule: Creating AISystem for world level_02
+[2020.09.11-06.02.50:115][730]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B921B8F600), frame # 117730
+[2020.09.11-06.02.50:115][730]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B905F53100), frame # 117730
+[2020.09.11-06.02.50:116][730]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2020.09.11-06.02.50:116][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_02.level_02 to /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 (0.004317s)
+[2020.09.11-06.02.50:138][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.09.11-06.02.50:140][730]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.11-06.02.50:140][730]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.11-06.02.50:140][730]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.11-06.02.50:140][730]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.11-06.02.50:140][730]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.11-06.02.50:140][730]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.11-06.02.50:140][730]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.11-06.02.50:140][730]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.11-06.02.50:140][730]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.11-06.02.50:140][730]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.11-06.02.50:144][730]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.11-06.02.50:144][730]LogAudioMixer: Display: 1: FrontRight
+[2020.09.11-06.02.50:173][730]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.11-06.02.50:173][730]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.11-06.02.50:173][730]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.11-06.02.50:173][730]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.11-06.02.50:173][730]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.11-06.02.50:186][730]LogInit: FAudioDevice initialized.
+[2020.09.11-06.02.50:192][730]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.11-06.02.50:194][730]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 up for play (max tick rate 0) at 2020.09.11-14.02.50
+[2020.09.11-06.02.50:194][730]LogWorld: Bringing up level for play took: 0.000945
+[2020.09.11-06.02.50:194][730]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.09.11-06.02.50:197][730]PIE: 登陆的服务器
+[2020.09.11-06.02.50:197][730]PIE: PIE总开始时间：0.087秒。
+[2020.09.11-06.02.54:979][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.02.54:979][299]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.02.54:980][299]LogWorld: UWorld::CleanupWorld for level_02, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.02.54:980][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.02.54:990][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.11-06.02.54:993][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.02.55:028][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.02.55:029][299]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B921B8F600), frame # 118299
+[2020.09.11-06.02.55:029][299]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B905F53100), frame # 118299
+[2020.09.11-06.02.55:031][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.09.11-06.02.55:058][300]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.09.11-06.05.13:736][342]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.11-06.05.13:736][342]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.11-06.05.24:664][594]AssetReimport: New page: 出色的源内容修改下午10:05:24
+[2020.09.11-06.05.24:665][594]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/black.png)
+[2020.09.11-06.05.25:182][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Source/black" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/black.uasset" SILENT=true
+[2020.09.11-06.05.25:287][595]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/blackCC953D1840127EA9DA50758767D3CEF4.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/black.uasset'
+[2020.09.11-06.05.25:317][596]AssetCheck: New page: 资产保存：black
+[2020.09.11-06.05.25:317][596]LogContentValidation: Display: 正在验证Texture2D /Game/Developers/fdy/Source/black.black
+[2020.09.11-06.05.28:301][916]AssetReimport: 正在导入新资产/Game/Developers/fdy/Source/black。
+[2020.09.11-06.05.30:536][149]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Developers/fdy/Source/black_Sprite.black_Sprite
+[2020.09.11-06.05.30:672][150]LogRenderer: Reallocating scene render targets to support 1528x916 Format 10 NumSamples 1 (Frame:1).
+[2020.09.11-06.05.34:142][549]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.05.34:142][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.05.54:652][416]BlueprintLog: New page: 编译PlayerBP
+[2020.09.11-06.05.54:702][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.09.11-06.05.57:136][652]LogTemp: Repeating last play command: 选中的视口
+[2020.09.11-06.05.57:149][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.11-06.05.57:149][652]PIE: New page: PIE会话：level_02（2020年9月11日 下午10:05:57）
+[2020.09.11-06.05.57:178][652]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.05.57:182][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003498s)
+[2020.09.11-06.05.57:183][652]LogAIModule: Creating AISystem for world level_02
+[2020.09.11-06.05.57:183][652]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B8B202EC00), frame # 132652
+[2020.09.11-06.05.57:183][652]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B915DCDF80), frame # 132652
+[2020.09.11-06.05.57:183][652]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2020.09.11-06.05.57:183][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_02.level_02 to /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 (0.004560s)
+[2020.09.11-06.05.57:206][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.09.11-06.05.57:207][652]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.11-06.05.57:207][652]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.11-06.05.57:207][652]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.11-06.05.57:207][652]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.11-06.05.57:207][652]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.11-06.05.57:207][652]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.11-06.05.57:207][652]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.11-06.05.57:207][652]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.11-06.05.57:208][652]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.11-06.05.57:208][652]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.11-06.05.57:212][652]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.11-06.05.57:212][652]LogAudioMixer: Display: 1: FrontRight
+[2020.09.11-06.05.57:243][652]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.11-06.05.57:243][652]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.11-06.05.57:243][652]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.11-06.05.57:243][652]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.11-06.05.57:243][652]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.11-06.05.57:256][652]LogInit: FAudioDevice initialized.
+[2020.09.11-06.05.57:264][652]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.11-06.05.57:265][652]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 up for play (max tick rate 0) at 2020.09.11-14.05.57
+[2020.09.11-06.05.57:266][652]LogWorld: Bringing up level for play took: 0.001102
+[2020.09.11-06.05.57:266][652]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.09.11-06.05.57:268][652]PIE: 登陆的服务器
+[2020.09.11-06.05.57:269][652]PIE: PIE总开始时间：0.12秒。
+[2020.09.11-06.06.14:449][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.06.14:449][635]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.06.14:449][635]LogWorld: UWorld::CleanupWorld for level_02, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.06.14:449][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.06.14:460][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.11-06.06.14:463][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.06.14:499][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.06.14:500][635]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B915DCDF80), frame # 133635
+[2020.09.11-06.06.14:500][635]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B8B202EC00), frame # 133635
+[2020.09.11-06.06.14:502][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.09.11-06.06.14:527][636]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.09.11-06.06.39:179][527]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Developers/fdy/Source/black_Sprite.black_Sprite
+[2020.09.11-06.07.27:732][385]LogEditorTransaction: Undo 修改组件
+[2020.09.11-06.07.29:246][511]BlueprintLog: New page: 编译PlayerBP
+[2020.09.11-06.07.29:310][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.09.11-06.07.33:623][975]LogTemp: Repeating last play command: 选中的视口
+[2020.09.11-06.07.33:635][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.11-06.07.33:635][975]PIE: New page: PIE会话：level_02（2020年9月11日 下午10:07:33）
+[2020.09.11-06.07.33:669][975]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.07.33:673][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003804s)
+[2020.09.11-06.07.33:673][975]LogAIModule: Creating AISystem for world level_02
+[2020.09.11-06.07.33:673][975]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B9010F5E00), frame # 140975
+[2020.09.11-06.07.33:673][975]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B911439F80), frame # 140975
+[2020.09.11-06.07.33:674][975]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2020.09.11-06.07.33:674][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_02.level_02 to /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 (0.004878s)
+[2020.09.11-06.07.33:696][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.09.11-06.07.33:698][975]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.11-06.07.33:698][975]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.11-06.07.33:698][975]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.11-06.07.33:698][975]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.11-06.07.33:698][975]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.11-06.07.33:698][975]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.11-06.07.33:698][975]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.11-06.07.33:698][975]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.11-06.07.33:698][975]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.11-06.07.33:698][975]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.11-06.07.33:702][975]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.11-06.07.33:702][975]LogAudioMixer: Display: 1: FrontRight
+[2020.09.11-06.07.33:731][975]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.11-06.07.33:731][975]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.11-06.07.33:731][975]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.11-06.07.33:731][975]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.11-06.07.33:732][975]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.11-06.07.33:746][975]LogInit: FAudioDevice initialized.
+[2020.09.11-06.07.33:752][975]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.11-06.07.33:754][975]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 up for play (max tick rate 0) at 2020.09.11-14.07.33
+[2020.09.11-06.07.33:754][975]LogWorld: Bringing up level for play took: 0.001219
+[2020.09.11-06.07.33:754][975]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.09.11-06.07.33:758][975]PIE: 登陆的服务器
+[2020.09.11-06.07.33:759][975]PIE: PIE总开始时间：0.124秒。
+[2020.09.11-06.08.00:279][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.08.00:280][151]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.08.00:280][151]LogWorld: UWorld::CleanupWorld for level_02, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.08.00:280][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.08.00:287][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.11-06.08.00:290][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.08.00:327][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.08.00:328][151]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B911439F80), frame # 144151
+[2020.09.11-06.08.00:328][151]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B9010F5E00), frame # 144151
+[2020.09.11-06.08.00:330][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.09.11-06.08.00:356][152]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.09.11-06.08.20:221][867]LogEditorTransaction: Undo 修改组件
+[2020.09.11-06.08.50:955][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Characters/Player/PlayerBP" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset" SILENT=true
+[2020.09.11-06.08.50:980][921]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/PlayerBPCED86C454DE2CDEF34A11BAA15C261C7.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset'
+[2020.09.11-06.08.50:991][921]AssetCheck: New page: 资产保存：PlayerBP
+[2020.09.11-06.08.50:991][921]LogContentValidation: Display: 正在验证Blueprint /Game/Developers/fdy/Characters/Player/PlayerBP.PlayerBP
+[2020.09.11-06.08.51:735][970]BlueprintLog: New page: 编译PlayerBP
+[2020.09.11-06.08.51:842][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.09.11-06.08.52:155][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Characters/Player/PlayerBP" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset" SILENT=true
+[2020.09.11-06.08.52:178][992]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/PlayerBP4D89B73A4AA121340A73079C606D5083.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset'
+[2020.09.11-06.08.52:187][992]AssetCheck: New page: 资产保存：PlayerBP
+[2020.09.11-06.08.52:187][992]LogContentValidation: Display: 正在验证Blueprint /Game/Developers/fdy/Characters/Player/PlayerBP.PlayerBP
+[2020.09.11-06.08.53:909][161]LogTemp: Repeating last play command: 选中的视口
+[2020.09.11-06.08.53:922][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.11-06.08.53:922][161]PIE: New page: PIE会话：level_02（2020年9月11日 下午10:08:53）
+[2020.09.11-06.08.53:948][161]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.08.53:952][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003417s)
+[2020.09.11-06.08.53:952][161]LogAIModule: Creating AISystem for world level_02
+[2020.09.11-06.08.53:952][161]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B8BFFD1600), frame # 149161
+[2020.09.11-06.08.53:952][161]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B90BD35D00), frame # 149161
+[2020.09.11-06.08.53:953][161]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2020.09.11-06.08.53:953][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_02.level_02 to /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 (0.004476s)
+[2020.09.11-06.08.53:975][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.09.11-06.08.53:976][161]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.11-06.08.53:976][161]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.11-06.08.53:976][161]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.11-06.08.53:976][161]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.11-06.08.53:976][161]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.11-06.08.53:976][161]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.11-06.08.53:976][161]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.11-06.08.53:976][161]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.11-06.08.53:976][161]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.11-06.08.53:977][161]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.11-06.08.53:981][161]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.11-06.08.53:981][161]LogAudioMixer: Display: 1: FrontRight
+[2020.09.11-06.08.54:012][161]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.11-06.08.54:012][161]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.11-06.08.54:012][161]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.11-06.08.54:012][161]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.11-06.08.54:012][161]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.11-06.08.54:025][161]LogInit: FAudioDevice initialized.
+[2020.09.11-06.08.54:034][161]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.11-06.08.54:035][161]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 up for play (max tick rate 0) at 2020.09.11-14.08.54
+[2020.09.11-06.08.54:036][161]LogWorld: Bringing up level for play took: 0.000969
+[2020.09.11-06.08.54:036][161]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.09.11-06.08.54:038][161]PIE: 登陆的服务器
+[2020.09.11-06.08.54:039][161]PIE: PIE总开始时间：0.118秒。
+[2020.09.11-06.09.23:633][461]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.11-06.09.23:880][461]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (中文 - QQ拼音输入法).
+[2020.09.11-06.09.43:923][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.09.43:923][842]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.09.43:924][842]LogWorld: UWorld::CleanupWorld for level_02, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.09.43:925][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.09.43:934][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.11-06.09.43:937][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.09.43:975][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.09.43:975][842]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B90BD35D00), frame # 153842
+[2020.09.11-06.09.43:975][842]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B8BFFD1600), frame # 153842
+[2020.09.11-06.09.43:977][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.09.11-06.09.44:004][843]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.09.11-06.09.56:293][252]LogEditorViewport: Clicking on Actor (LMB): Plane2_Blueprint_C (Plane2_Blueprint)
+[2020.09.11-06.09.57:224][357]LogEditorViewport: Clicking on Actor (LMB): PlayerBP_C (PlayerBP)
+[2020.09.11-06.09.59:540][614]LogEditorViewport: Clicking on Actor (context menu): Plane2_Blueprint_C (Plane2_Blueprint)
+[2020.09.11-06.10.00:353][698]LogEditorViewport: Clicking on Actor (LMB): Plane2_Blueprint_C (Plane2_Blueprint)
+[2020.09.11-06.10.10:710][916]LogEditorViewport: Clicking on Actor (LMB): PlayerBP_C (PlayerBP)
+[2020.09.11-06.10.32:218][469]Cmd: SELECT NONE
+[2020.09.11-06.10.33:479][616]LogEditorViewport: Clicking Background
+[2020.09.11-06.10.33:749][648]Cmd: SELECT NONE
+[2020.09.11-06.10.34:117][692]Cmd: SELECT NONE
+[2020.09.11-06.10.34:546][743]LogEditorViewport: Clicking Background
+[2020.09.11-06.10.34:665][757]Cmd: SELECT NONE
+[2020.09.11-06.10.35:578][866]Cmd: SELECT NONE
+[2020.09.11-06.10.35:621][868]LogWindows: LaunchURL http://docs.unrealengine.com/latest/ZHO/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2020.09.11-06.10.35:838][892]Cmd: SELECT NONE
+[2020.09.11-06.10.36:072][920]Cmd: SELECT NONE
+[2020.09.11-06.10.36:329][943]Cmd: SELECT NONE
+[2020.09.11-06.10.40:033][310]LogEditorViewport: Clicking on Actor (LMB): PlayerBP_C (PlayerBP)
+[2020.09.11-06.10.42:000][508]Cmd: DELETE
+[2020.09.11-06.10.42:000][508]Cmd: ACTOR DELETE
+[2020.09.11-06.10.42:002][508]LogEditorActor: Deleted Actor: PlayerBP_C
+[2020.09.11-06.10.42:037][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.09.11-06.10.42:042][508]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.09.11-06.10.44:494][782]LogEditorViewport: Clicking on Actor (LMB): Plane2_Blueprint_C (Plane2_Blueprint)
+[2020.09.11-06.10.45:092][845]LogEditorViewport: Clicking on Actor (LMB): Plane2_Blueprint_C (Plane2_Blueprint)
+[2020.09.11-06.11.01:604][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.09.11-06.11.13:077][742]LogEditorTransaction: Undo 重命名组件变量
+[2020.09.11-06.11.52:863][925]BlueprintLog: New page: 编译PlayerBP
+[2020.09.11-06.11.52:911][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.09.11-06.11.53:614][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Characters/Player/PlayerBP" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset" SILENT=true
+[2020.09.11-06.11.53:640][968]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/PlayerBPD36904E546B938FC1088F18479B04AF6.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset'
+[2020.09.11-06.11.53:655][968]AssetCheck: New page: 资产保存：PlayerBP
+[2020.09.11-06.11.53:655][968]LogContentValidation: Display: 正在验证Blueprint /Game/Developers/fdy/Characters/Player/PlayerBP.PlayerBP
+[2020.09.11-06.11.56:414][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Maps/level_02" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.11-06.11.56:439][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.09.11-06.11.56:463][212]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/level_02FE6D251D47AB1778FA948EA4CA1ABDFF.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_02.umap'
+[2020.09.11-06.11.56:486][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Maps/level_02_BuiltData" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_02_BuiltData.uasset" SILENT=true
+[2020.09.11-06.11.56:502][212]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/level_02_BuiltDataD31E36E045A341B2C2B60997382814E3.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Maps/level_02_BuiltData.uasset'
+[2020.09.11-06.11.56:523][212]AssetCheck: New page: 资产保存：多个资产
+[2020.09.11-06.11.56:523][212]LogContentValidation: Display: 正在验证World /Game/Developers/fdy/Maps/level_02.level_02
+[2020.09.11-06.11.56:523][212]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/Developers/fdy/Maps/level_02_BuiltData.level_02_BuiltData
+[2020.09.11-06.11.57:312][297]LogTemp: Repeating last play command: 选中的视口
+[2020.09.11-06.11.57:327][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.11-06.11.57:327][297]PIE: New page: PIE会话：level_02（2020年9月11日 下午10:11:57）
+[2020.09.11-06.11.57:348][297]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.11.57:352][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004010s)
+[2020.09.11-06.11.57:353][297]LogAIModule: Creating AISystem for world level_02
+[2020.09.11-06.11.57:353][297]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B91CAC7C00), frame # 167297
+[2020.09.11-06.11.57:354][297]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B90D509440), frame # 167297
+[2020.09.11-06.11.57:354][297]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2020.09.11-06.11.57:354][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_02.level_02 to /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 (0.005578s)
+[2020.09.11-06.11.57:382][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.09.11-06.11.57:384][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.11-06.11.57:384][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.11-06.11.57:384][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.11-06.11.57:384][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.11-06.11.57:384][297]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.11-06.11.57:384][297]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.11-06.11.57:384][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.11-06.11.57:384][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.11-06.11.57:385][297]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.11-06.11.57:385][297]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.11-06.11.57:390][297]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.11-06.11.57:390][297]LogAudioMixer: Display: 1: FrontRight
+[2020.09.11-06.11.57:423][297]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.11-06.11.57:423][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.11-06.11.57:424][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.11-06.11.57:424][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.11-06.11.57:424][297]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.11-06.11.57:436][297]LogInit: FAudioDevice initialized.
+[2020.09.11-06.11.57:446][297]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.11-06.11.57:447][297]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 up for play (max tick rate 0) at 2020.09.11-14.11.57
+[2020.09.11-06.11.57:447][297]LogWorld: Bringing up level for play took: 0.000979
+[2020.09.11-06.11.57:447][297]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.09.11-06.11.57:451][297]PIE: 登陆的服务器
+[2020.09.11-06.11.57:452][297]PIE: PIE总开始时间：0.125秒。
+[2020.09.11-06.12.03:469][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.12.03:469][  7]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.12.03:469][  7]LogWorld: UWorld::CleanupWorld for level_02, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.12.03:469][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.12.03:475][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.11-06.12.03:477][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.12.03:499][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.12.03:515][  7]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B90D509440), frame # 168007
+[2020.09.11-06.12.03:515][  7]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B91CAC7C00), frame # 168007
+[2020.09.11-06.12.03:517][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.09.11-06.12.03:543][  8]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.09.11-06.12.21:709][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Characters/Player/PlayerBP" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset" SILENT=true
+[2020.09.11-06.12.21:734][358]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/PlayerBP7C61C81A4DFF54008B6CAA99551C7EA8.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset'
+[2020.09.11-06.12.21:753][358]AssetCheck: New page: 资产保存：PlayerBP
+[2020.09.11-06.12.21:753][358]LogContentValidation: Display: 正在验证Blueprint /Game/Developers/fdy/Characters/Player/PlayerBP.PlayerBP
+[2020.09.11-06.12.22:190][392]BlueprintLog: New page: 编译PlayerBP
+[2020.09.11-06.12.22:238][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.09.11-06.12.22:898][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Characters/Player/PlayerBP" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset" SILENT=true
+[2020.09.11-06.12.22:923][447]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/PlayerBP6D8B927F4BD5131D0EAC37902D3373F1.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Characters/Player/PlayerBP.uasset'
+[2020.09.11-06.12.22:936][447]AssetCheck: New page: 资产保存：PlayerBP
+[2020.09.11-06.12.22:936][447]LogContentValidation: Display: 正在验证Blueprint /Game/Developers/fdy/Characters/Player/PlayerBP.PlayerBP
+[2020.09.11-06.13.46:749][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/fdy/Source/black_Sprite" FILE="F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/black_Sprite.uasset" SILENT=true
+[2020.09.11-06.13.46:752][376]LogSavePackage: Moving 'F:/work/Minigame/My2Dgame/minigame2d/Saved/black_SpriteEE3089344BBC8CE5B59C6BA1805F6D9E.tmp' to 'F:/work/Minigame/My2Dgame/minigame2d/Content/Developers/fdy/Source/black_Sprite.uasset'
+[2020.09.11-06.13.46:771][376]AssetCheck: New page: 资产保存：black_Sprite
+[2020.09.11-06.13.46:771][376]LogContentValidation: Display: 正在验证PaperSprite /Game/Developers/fdy/Source/black_Sprite.black_Sprite
+[2020.09.11-06.13.47:667][458]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.13.47:667][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.13.51:556][870]LogTemp: Repeating last play command: 选中的视口
+[2020.09.11-06.13.51:569][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.11-06.13.51:570][870]PIE: New page: PIE会话：level_02（2020年9月11日 下午10:13:51）
+[2020.09.11-06.13.51:570][870]LogPlayLevel: Creating play world package: /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.13.51:574][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003929s)
+[2020.09.11-06.13.51:574][870]LogAIModule: Creating AISystem for world level_02
+[2020.09.11-06.13.51:574][870]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B928490E00), frame # 177870
+[2020.09.11-06.13.51:574][870]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B90D6F39C0), frame # 177870
+[2020.09.11-06.13.51:575][870]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2020.09.11-06.13.51:575][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/fdy/Maps/level_02.level_02 to /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 (0.004978s)
+[2020.09.11-06.13.51:598][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.09.11-06.13.51:601][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.11-06.13.51:601][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.11-06.13.51:601][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.11-06.13.51:601][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.11-06.13.51:601][870]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.11-06.13.51:601][870]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.11-06.13.51:602][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.11-06.13.51:602][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.11-06.13.51:602][870]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.11-06.13.51:602][870]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.11-06.13.51:606][870]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.11-06.13.51:606][870]LogAudioMixer: Display: 1: FrontRight
+[2020.09.11-06.13.51:635][870]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.09.11-06.13.51:635][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.11-06.13.51:635][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.11-06.13.51:636][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.11-06.13.51:636][870]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.11-06.13.51:648][870]LogInit: FAudioDevice initialized.
+[2020.09.11-06.13.51:657][870]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.09.11-06.13.51:659][870]LogWorld: Bringing World /Game/Developers/fdy/Maps/UEDPIE_0_level_02.level_02 up for play (max tick rate 0) at 2020.09.11-14.13.51
+[2020.09.11-06.13.51:659][870]LogWorld: Bringing up level for play took: 0.000993
+[2020.09.11-06.13.51:659][870]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.09.11-06.13.51:662][870]PIE: 登陆的服务器
+[2020.09.11-06.13.51:663][870]PIE: PIE总开始时间：0.095秒。
+[2020.09.11-06.14.15:466][272]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.11-06.14.15:466][272]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.11-06.14.17:449][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.14.17:449][504]LogWorld: BeginTearingDown for /Game/Developers/fdy/Maps/UEDPIE_0_level_02
+[2020.09.11-06.14.17:449][504]LogWorld: UWorld::CleanupWorld for level_02, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.14.17:449][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.14.17:457][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.11-06.14.17:460][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.14.17:496][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.11-06.14.17:497][504]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B90D6F39C0), frame # 179504
+[2020.09.11-06.14.17:497][504]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B928490E00), frame # 179504
+[2020.09.11-06.14.17:499][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.09.11-06.14.17:522][505]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.09.11-06.14.25:426][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.09.11-06.14.25:488][123]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.14.25:488][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.14.25:531][123]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.09.11-06.14.25:531][123]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.14.25:531][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.14.25:570][123]LogSlate: Window 'Student_exam' being destroyed
+[2020.09.11-06.14.25:594][123]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.09.11-06.14.25:594][123]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.14.25:594][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.11-06.14.25:677][123]LogSlate: Window 'minigame2d - 虚幻编辑器' being destroyed
+[2020.09.11-06.14.25:677][123]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.11-06.14.25:787][124]Cmd: QUIT_EDITOR
+[2020.09.11-06.14.25:787][124]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.09.11-06.14.25:793][124]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.09.11-06.14.25:955][124]LogExit: Preparing to exit.
+[2020.09.11-06.14.26:435][124]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.14.26:437][124]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.14.26:468][124]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.09.11-06.14.26:473][124]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.11-06.14.26:473][124]LogExit: Editor shut down
+[2020.09.11-06.14.26:473][124]LogExit: Transaction tracking system shut down
+[2020.09.11-06.14.26:691][124]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000002B887E85E40), frame # 180124
+[2020.09.11-06.14.26:691][124]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B887DBD080), frame # 180124
+[2020.09.11-06.14.26:691][124]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B887E1A000), frame # 180124
+[2020.09.11-06.14.26:697][124]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B8BF738A40), frame # 180124
+[2020.09.11-06.14.26:697][124]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B90595CA00), frame # 180124
+[2020.09.11-06.14.26:761][124]LogExit: Object subsystem successfully closed.
+[2020.09.11-06.14.26:778][124]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.09.11-06.14.26:788][124]LogModuleManager: Shutting down and abandoning module BlueprintGraph (796)
+[2020.09.11-06.14.26:788][124]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (794)
+[2020.09.11-06.14.26:789][124]LogModuleManager: Shutting down and abandoning module Voice (792)
+[2020.09.11-06.14.26:789][124]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2020.09.11-06.14.26:789][124]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2020.09.11-06.14.26:789][124]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2020.09.11-06.14.26:790][124]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2020.09.11-06.14.26:791][124]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2020.09.11-06.14.27:325][124]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2020.09.11-06.14.27:325][124]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2020.09.11-06.14.27:325][124]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2020.09.11-06.14.27:326][124]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2020.09.11-06.14.27:360][124]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2020.09.11-06.14.27:360][124]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2020.09.11-06.14.27:360][124]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2020.09.11-06.14.27:360][124]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2020.09.11-06.14.27:360][124]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2020.09.11-06.14.27:360][124]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2020.09.11-06.14.27:360][124]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2020.09.11-06.14.27:360][124]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2020.09.11-06.14.27:360][124]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2020.09.11-06.14.27:360][124]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2020.09.11-06.14.27:360][124]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2020.09.11-06.14.27:365][124]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2020.09.11-06.14.27:366][124]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2020.09.11-06.14.27:366][124]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2020.09.11-06.14.27:366][124]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2020.09.11-06.14.27:366][124]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2020.09.11-06.14.27:366][124]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2020.09.11-06.14.27:366][124]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2020.09.11-06.14.27:366][124]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2020.09.11-06.14.27:366][124]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2020.09.11-06.14.27:366][124]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2020.09.11-06.14.27:366][124]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2020.09.11-06.14.27:367][124]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2020.09.11-06.14.27:367][124]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2020.09.11-06.14.27:367][124]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2020.09.11-06.14.27:367][124]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2020.09.11-06.14.27:367][124]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2020.09.11-06.14.27:367][124]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2020.09.11-06.14.27:367][124]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2020.09.11-06.14.27:367][124]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2020.09.11-06.14.27:367][124]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2020.09.11-06.14.27:367][124]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2020.09.11-06.14.27:367][124]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2020.09.11-06.14.27:367][124]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2020.09.11-06.14.27:367][124]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2020.09.11-06.14.27:367][124]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2020.09.11-06.14.27:367][124]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2020.09.11-06.14.27:433][124]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2020.09.11-06.14.27:438][124]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.09.11-06.14.27:439][124]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.09.11-06.14.27:541][124]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.09.11-06.14.27:641][124]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.09.11-06.14.27:641][124]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.09.11-06.14.27:641][124]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.09.11-06.14.27:642][124]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.09.11-06.14.27:642][124]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.09.11-06.14.27:642][124]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.09.11-06.14.27:642][124]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.09.11-06.14.27:642][124]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.09.11-06.14.27:642][124]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.09.11-06.14.27:642][124]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.09.11-06.14.27:642][124]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.09.11-06.14.27:642][124]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.09.11-06.14.27:642][124]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.09.11-06.14.27:643][124]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.09.11-06.14.27:643][124]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.09.11-06.14.27:643][124]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.09.11-06.14.27:643][124]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.09.11-06.14.27:643][124]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.09.11-06.14.27:643][124]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.09.11-06.14.27:643][124]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.09.11-06.14.27:644][124]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.09.11-06.14.27:645][124]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.09.11-06.14.27:645][124]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.09.11-06.14.27:645][124]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.09.11-06.14.27:645][124]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.09.11-06.14.27:645][124]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.09.11-06.14.27:645][124]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.09.11-06.14.27:645][124]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.09.11-06.14.27:645][124]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.09.11-06.14.27:645][124]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.09.11-06.14.27:645][124]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.09.11-06.14.27:645][124]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.09.11-06.14.27:645][124]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.09.11-06.14.27:645][124]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.09.11-06.14.27:645][124]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.09.11-06.14.27:646][124]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.09.11-06.14.27:646][124]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.09.11-06.14.27:646][124]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.09.11-06.14.27:646][124]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.09.11-06.14.27:646][124]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.09.11-06.14.27:647][124]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.09.11-06.14.27:658][124]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.09.11-06.14.27:663][124]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.09.11-06.14.27:663][124]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.09.11-06.14.27:663][124]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.09.11-06.14.27:663][124]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.09.11-06.14.27:663][124]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.09.11-06.14.27:663][124]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.09.11-06.14.27:663][124]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.09.11-06.14.27:663][124]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.09.11-06.14.27:663][124]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.09.11-06.14.27:667][124]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.09.11-06.14.27:683][124]LogHMD: Freeing OpenVRDLLHandle.
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.09.11-06.14.27:683][124]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.09.11-06.14.27:684][124]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.09.11-06.14.27:684][124]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.09.11-06.14.27:720][124]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.09.11-06.14.27:720][124]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.09.11-06.14.27:720][124]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B35A34DF7-438B-4AFC-4F31-FF984D0F0B45%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=0a7465674659920a8c7c4f846aa0c5dd%7C008155afdb0344378b2bf30ad5b1af7c%7C2f97ace2-e986-4a4c-b319-8c9a03e11781&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.09.11-06.14.27:746][124]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.09.11-06.14.27:747][124]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.09.11-06.14.27:749][124]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.09.11-06.14.27:750][124]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.09.11-06.14.27:750][124]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.09.11-06.14.27:750][124]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.09.11-06.14.27:750][124]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.09.11-06.14.27:750][124]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.09.11-06.14.27:750][124]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.09.11-06.14.27:750][124]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.09.11-06.14.27:750][124]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.09.11-06.14.27:750][124]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.09.11-06.14.27:750][124]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.09.11-06.14.27:750][124]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.09.11-06.14.27:750][124]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.09.11-06.14.27:750][124]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.09.11-06.14.27:751][124]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.09.11-06.14.27:751][124]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.09.11-06.14.27:751][124]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.09.11-06.14.27:751][124]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.09.11-06.14.27:752][124]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.09.11-06.14.27:752][124]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.09.11-06.14.27:752][124]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.09.11-06.14.27:752][124]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.09.11-06.14.27:752][124]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.09.11-06.14.27:752][124]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.09.11-06.14.27:752][124]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.09.11-06.14.27:752][124]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.09.11-06.14.27:752][124]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.09.11-06.14.27:752][124]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.09.11-06.14.27:752][124]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.09.11-06.14.27:752][124]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.09.11-06.14.27:752][124]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.09.11-06.14.27:753][124]LogD3D11RHI: Shutdown
+[2020.09.11-06.14.27:753][124]LogD3D11RHI: CleanupD3DDevice
+[2020.09.11-06.14.27:763][124]LogExit: Exiting.
+[2020.09.11-06.14.27:811][124]Log file closed, 09/11/20 14:14:27
